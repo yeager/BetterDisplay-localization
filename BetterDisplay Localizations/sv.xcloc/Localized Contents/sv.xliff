@@ -105,6 +105,7 @@
       </trans-unit>
       <trans-unit id="%@ - Duplicate" xml:space="preserve">
         <source>%@ - Duplicate</source>
+        <target state="translated">%@ - Dubblett</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ - Swap Position" xml:space="preserve">
@@ -139,6 +140,7 @@
       </trans-unit>
       <trans-unit id="%@ Image adjustment controls are unavailable." xml:space="preserve">
         <source>%@ Image adjustment controls are unavailable.</source>
+        <target state="translated">%@ Kontroller för bildjusteringar är inte tillgängliga.</target>
         <note/>
       </trans-unit>
       <trans-unit id="%@ NTSC (or other unexposed) refresh rates may not persist after mode-changes unless forced by %@ Configuration Protection." xml:space="preserve">
@@ -379,6 +381,7 @@ Please reactivate this installation to continue using Pro features.</source>
       </trans-unit>
       <trans-unit id="A display group with the name '%@' already exists." xml:space="preserve">
         <source>A display group with the name '%@' already exists.</source>
+        <target state="translated">En skärmgrupp med namnet '%@' finns redan.</target>
         <note/>
       </trans-unit>
       <trans-unit id="A display is present which is not fully controllable without the app" xml:space="preserve">
@@ -570,10 +573,12 @@ Please reactivate this installation to continue using Pro features.</source>
       </trans-unit>
       <trans-unit id="Additional resolution slider settings" xml:space="preserve">
         <source>Additional resolution slider settings</source>
+        <target state="translated">Ytterligare draglistsinställningar för upplösning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Additional rotation shortcut settings" xml:space="preserve">
         <source>Additional rotation shortcut settings</source>
+        <target state="translated">Ytterligare genvägsinställningar för rotering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Additional settings" xml:space="preserve">
@@ -717,6 +722,7 @@ You can do this in System Settings or the app can do it for you (administrator c
       </trans-unit>
       <trans-unit id="Allow disconnecting the built-in display of the iMac" xml:space="preserve">
         <source>Allow disconnecting the built-in display of the iMac</source>
+        <target state="translated">Tillåt frånkoppling av inbyggd iMac-skärm</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow native XDR upscaling" xml:space="preserve">
@@ -735,6 +741,7 @@ You can do this in System Settings or the app can do it for you (administrator c
       </trans-unit>
       <trans-unit id="Allow restore to full dimming" xml:space="preserve">
         <source>Allow restore to full dimming</source>
+        <target state="translated">Tillåt återställning till fullständig dimning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow sending crash logs to the developer automatically. Crash logs do not contain any personal data but may contain hardware specific data. Crash logs are handled by Sentry ([sentry.io/privacy](https://sentry.io/privacy))." xml:space="preserve">
@@ -999,10 +1006,12 @@ AliPay tillgänglig i Kina.</target>
       </trans-unit>
       <trans-unit id="Are sure you want to discard this display group and all its settings?" xml:space="preserve">
         <source>Are sure you want to discard this display group and all its settings?</source>
+        <target state="translated">Vill du verkligen förkasta denna skärmgrupp och alla dess inställningar?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are sure you want to quit the app?" xml:space="preserve">
         <source>Are sure you want to quit the app?</source>
+        <target state="translated">Vill du verkligen avsluta programmet?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are sure you want to reapply model specific adaptations for this display?" xml:space="preserve">
@@ -1011,10 +1020,12 @@ AliPay tillgänglig i Kina.</target>
       </trans-unit>
       <trans-unit id="Are sure you want to remove this synchronization with all its settings?" xml:space="preserve">
         <source>Are sure you want to remove this synchronization with all its settings?</source>
+        <target state="translated">Är du säker på att du vill ta bort denna synkronisering och alla dess inställningar?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are sure you want to reset (forget) all settings related to this display? Reset does not affect system configuration settings like flexible scaling, custom resolutions." xml:space="preserve">
         <source>Are sure you want to reset (forget) all settings related to this display? Reset does not affect system configuration settings like flexible scaling, custom resolutions.</source>
+        <target state="translated">Är du säker på att du vill nollställa (glömma) alla inställningar relaterade till denna skärm? Nollställning påverkar inte systemets konfigurationsinställningar som flexibel skalning, anpassade upplösningar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Are sure you want to reset app settings?" xml:space="preserve">
@@ -1085,10 +1096,12 @@ AliPay tillgänglig i Kina.</target>
       </trans-unit>
       <trans-unit id="At least two display group members are present." xml:space="preserve">
         <source>At least two display group members are present.</source>
+        <target state="translated">Minst två skärmgruppsmedlemmar finns.</target>
         <note/>
       </trans-unit>
       <trans-unit id="At least two group members are connected" xml:space="preserve">
         <source>At least two group members are connected</source>
+        <target state="translated">Minst två gruppmedlemmar är anslutna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Attempts to directly read the EDID data from the display." xml:space="preserve">
@@ -1257,6 +1270,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Be careful with this setting as it will grab control even if another audio output is selected!" xml:space="preserve">
         <source>Be careful with this setting as it will grab control even if another audio output is selected!</source>
+        <target state="translated">Var försiktig med denna inställning då den kommer ta kontroll även om en annan ljudutgång har valts!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Below %@" xml:space="preserve">
@@ -1307,10 +1321,12 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Brighten Displays" xml:space="preserve">
         <source>Brighten Displays</source>
+        <target state="translated">Ljusare skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brighten all displays." xml:space="preserve">
         <source>Brighten all displays.</source>
+        <target state="translated">Gör alla skärmar ljusare.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brightness" xml:space="preserve">
@@ -1320,6 +1336,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Brightness (Combined)" xml:space="preserve">
         <source>Brightness (Combined)</source>
+        <target state="translated">Ljusstyrka (kombinerad)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brightness (Combined, Metal Upscaling)" xml:space="preserve">
@@ -1332,6 +1349,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Brightness (Hardware)" xml:space="preserve">
         <source>Brightness (Hardware)</source>
+        <target state="translated">Ljusstyrka (hårdvara)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brightness (Metal Upscaling)" xml:space="preserve">
@@ -1340,6 +1358,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Brightness (Metal)" xml:space="preserve">
         <source>Brightness (Metal)</source>
+        <target state="translated">Ljusstyrka (Metal)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brightness (Native XDR Upscaling)" xml:space="preserve">
@@ -1362,10 +1381,12 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Brightness Upscaling" xml:space="preserve">
         <source>Brightness Upscaling</source>
+        <target state="translated">Uppskalning av ljusstyrkan</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brightness Upscaling (Native)" xml:space="preserve">
         <source>Brightness Upscaling (Native)</source>
+        <target state="translated">Uppskalning av ljusstyrkan (inbyggd)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brightness and Video" xml:space="preserve">
@@ -1568,10 +1589,12 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Color mode changed for %@." xml:space="preserve">
         <source>Color mode changed for %@.</source>
+        <target state="translated">Färgläget ändrat för %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color profile changed for %@." xml:space="preserve">
         <source>Color profile changed for %@.</source>
+        <target state="translated">Färgprofilen ändrad för %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Color table alteration capable" xml:space="preserve">
@@ -1918,10 +1941,12 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Current Display Mode" xml:space="preserve">
         <source>Current Display Mode</source>
+        <target state="translated">Aktuellt skärmläge</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current Display Mode (Connection Level)" xml:space="preserve">
         <source>Current Display Mode (Connection Level)</source>
+        <target state="translated">Aktuellt skärmläge (anslutningsnivå)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current audio device has no native volume control" xml:space="preserve">
@@ -1940,6 +1965,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Current display role" xml:space="preserve">
         <source>Current display role</source>
+        <target state="translated">Aktuell skärmroll</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current mode" xml:space="preserve">
@@ -1962,6 +1988,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Current value: %u" xml:space="preserve">
         <source>Current value: %u</source>
+        <target state="translated">Aktuellt värde: %u</target>
         <note/>
       </trans-unit>
       <trans-unit id="Currently available as HiDPI" xml:space="preserve">
