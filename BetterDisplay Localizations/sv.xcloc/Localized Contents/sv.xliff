@@ -6085,10 +6085,12 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Show Quit %@ in the button bar" xml:space="preserve">
         <source>Show Quit %@ in the button bar</source>
+        <target state="translated">Visa Avsluta %@ i knappfältet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Settings in the button bar" xml:space="preserve">
         <source>Show Settings in the button bar</source>
+        <target state="translated">Visa Inställningar i knappfältet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show and Bring to Front" xml:space="preserve">
@@ -6098,10 +6100,12 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Show and snap to slider markers for favorites and special resolutions." xml:space="preserve">
         <source>Show and snap to slider markers for favorites and special resolutions.</source>
+        <target state="translated">Visa och fäst vid draglistmarkörer för favoriter och särskilda upplösningar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show app icon in the menu bar" xml:space="preserve">
         <source>Show app icon in the menu bar</source>
+        <target state="translated">Visa app-ikonen i menyraden</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show app menu" xml:space="preserve">
@@ -6111,14 +6115,17 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Show brightness, volume, mute OSD" xml:space="preserve">
         <source>Show brightness, volume, mute OSD</source>
+        <target state="translated">Visa ljusstyrka, volym, tyst OSD</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show button bar at the top of the menu" xml:space="preserve">
         <source>Show button bar at the top of the menu</source>
+        <target state="translated">Visa knappfältet längst upp i menyn</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show connect/disconnect in menu even if header has it as switch" xml:space="preserve">
         <source>Show connect/disconnect in menu even if header has it as switch</source>
+        <target state="translated">Visa anslut/koppla från i menyn även om rubriken har det som växel</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show current resolution values" xml:space="preserve">
@@ -6128,14 +6135,17 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Show currently not detected displays in list" xml:space="preserve">
         <source>Show currently not detected displays in list</source>
+        <target state="translated">Visa för närvarande inte upptäckta skärmar i listan</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show currently offline displays in Settings" xml:space="preserve">
         <source>Show currently offline displays in Settings</source>
+        <target state="translated">Visa aktuella frånkopplade skärmar i Inställningar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show custom OSD icons" xml:space="preserve">
         <source>Show custom OSD icons</source>
+        <target state="translated">Visa anpassade OSD-ikoner</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show data as" xml:space="preserve">
@@ -6183,14 +6193,17 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Show on/off (power) switch in headers" xml:space="preserve">
         <source>Show on/off (power) switch in headers</source>
+        <target state="translated">Visa på/av-omkopplare (ström) i rubrikerna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show percentage for scalable displays" xml:space="preserve">
         <source>Show percentage for scalable displays</source>
+        <target state="translated">Visa procent för skalbara skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show separate hardware and software brightness sliders when combined brightness is enabled. This is useful for testing and understanding the effects of the combined slider." xml:space="preserve">
         <source>Show separate hardware and software brightness sliders when combined brightness is enabled. This is useful for testing and understanding the effects of the combined slider.</source>
+        <target state="translated">Visa separata reglage för ljusstyrka för maskinvara och programvara när kombinerad ljusstyrka är aktiverad. Detta är användbart för att testa och förstå effekterna av det kombinerade reglaget.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show slider labels" xml:space="preserve">
@@ -6205,30 +6218,37 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Show subsliders for combined brightness control" xml:space="preserve">
         <source>Show subsliders for combined brightness control</source>
+        <target state="translated">Visa underreglage för kombinerad ljusstyrkereglering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show warning notifications about color table anomalies" xml:space="preserve">
         <source>Show warning notifications about color table anomalies</source>
+        <target state="translated">Visa varningsmeddelanden om avvikelser i färgtabellen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shows all displays previously detected by the app. Allows some configuration changes even when a display is offline." xml:space="preserve">
         <source>Shows all displays previously detected by the app. Allows some configuration changes even when a display is offline.</source>
+        <target state="translated">Visar alla skärmar som tidigare har upptäckts av appen. Tillåter vissa konfigurationsändringar även när en skärm är frånkopplad.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sidecar Configuration" xml:space="preserve">
         <source>Sidecar Configuration</source>
+        <target state="translated">Sidecar-konfiguration</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sidecar Display" xml:space="preserve">
         <source>Sidecar Display</source>
+        <target state="translated">Sidecar-skärm</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sidecar UUID" xml:space="preserve">
         <source>Sidecar UUID</source>
+        <target state="translated">Sidecar UUID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Simplifies navigation greatly." xml:space="preserve">
         <source>Simplifies navigation greatly.</source>
+        <target state="translated">Förenklar navigeringen avsevärt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Skip" xml:space="preserve">
@@ -6238,94 +6258,117 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Skip displays in HDR or reference XDR mode" xml:space="preserve">
         <source>Skip displays in HDR or reference XDR mode</source>
+        <target state="translated">Hoppa över skärmar i HDR- eller referens XDR-läge</target>
         <note/>
       </trans-unit>
       <trans-unit id="Skip the standard macOS fade-out and fade-in animations during mode change and display layout operations performed by the app." xml:space="preserve">
         <source>Skip the standard macOS fade-out and fade-in animations during mode change and display layout operations performed by the app.</source>
+        <target state="translated">Hoppa över de vanliga macOS-animationerna för uttoning och intoning under lägesändring och skärmlayoutoperationer som utförs av appen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Slider visibility" xml:space="preserve">
         <source>Slider visibility</source>
+        <target state="translated">Synlighet för skjutreglaget</target>
         <note/>
       </trans-unit>
       <trans-unit id="Smooth transitions" xml:space="preserve">
         <source>Smooth transitions</source>
+        <target state="translated">Mjuka övergångar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Snap to 25% Steps" xml:space="preserve">
         <source>Snap to 25% Steps</source>
+        <target state="needs-translation"></target>
         <note/>
       </trans-unit>
       <trans-unit id="Software XDR/HDR Upscaling and Dimming" xml:space="preserve">
         <source>Software XDR/HDR Upscaling and Dimming</source>
+        <target state="translated">Programvara för XDR/HDR-uppskalning och dimning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Software control" xml:space="preserve">
         <source>Software control</source>
+        <target state="translated">Programvarukontroll</target>
         <note/>
       </trans-unit>
       <trans-unit id="Software control allows dimming even without hardware support and provides various other video adjustments. Required for combined brightness and XDR/HDR upscaling." xml:space="preserve">
         <source>Software control allows dimming even without hardware support and provides various other video adjustments. Required for combined brightness and XDR/HDR upscaling.</source>
+        <target state="translated">Mjukvarukontroll möjliggör dimning även utan hårdvarustöd och ger flera andra videojusteringar. Krävs för kombinerad ljusstyrka och XDR/HDR-uppskalning.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Some displays are still disconnected!" xml:space="preserve">
         <source>Some displays are still disconnected!</source>
+        <target state="translated">Vissa skärmar är fortfarande frånkopplade!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Some displays do not support DDC brightness control in HDR mode. Enabling this for compatible displays allows brightness control while preserving unclipped HDR content." xml:space="preserve">
         <source>Some displays do not support DDC brightness control in HDR mode. Enabling this for compatible displays allows brightness control while preserving unclipped HDR content.</source>
+        <target state="translated">Vissa skärmar stöder inte DDC-reglering av ljusstyrka i HDR-läge. Om du aktiverar detta för kompatibla skärmar kan du kontrollera ljusstyrkan samtidigt som du bevarar oklippt HDR-innehåll.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Some displays forget changes made via DDC commands after sleep. With this enabled, the app reapplies DDC settings every time the display wakes." xml:space="preserve">
         <source>Some displays forget changes made via DDC commands after sleep. With this enabled, the app reapplies DDC settings every time the display wakes.</source>
+        <target state="translated">Vissa skärmar glömmer ändringar som gjorts via DDC-kommandon efter sömn. När detta är aktiverat tillämpar appen DDC-inställningarna på nytt varje gång skärmen vaknar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Some displays require an SCS (Save Current Settings) signal after DDC write so the operation takes effect. For the overwhelming majority of displays it is best to leave this setting off." xml:space="preserve">
         <source>Some displays require an SCS (Save Current Settings) signal after DDC write so the operation takes effect. For the overwhelming majority of displays it is best to leave this setting off.</source>
+        <target state="translated">Vissa skärmar kräver en SCS-signal (Save Current Settings) efter DDC-skrivningen för att åtgärden ska träda i kraft. För de allra flesta skärmar är det bäst att låta denna inställning vara avstängd.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Some of these are unstable, may contain major bugs, experimental or unfinished features. Not all internal releases are available as auto-updates." xml:space="preserve">
         <source>Some of these are unstable, may contain major bugs, experimental or unfinished features. Not all internal releases are available as auto-updates.</source>
+        <target state="translated">Vissa av dessa är instabila, kan innehålla större buggar, experimentella eller oavslutade funktioner. Alla interna releaser är inte tillgängliga som automatiska uppdateringar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Source member must be an Apple display" xml:space="preserve">
         <source>Source member must be an Apple display</source>
+        <target state="translated">Källmedlemmen måste vara en Apple-skärm</target>
         <note/>
       </trans-unit>
       <trans-unit id="Source member must be an external display" xml:space="preserve">
         <source>Source member must be an external display</source>
+        <target state="translated">Källmedlem måste vara en extern skärm</target>
         <note/>
       </trans-unit>
       <trans-unit id="Source member must be set as the main display" xml:space="preserve">
         <source>Source member must be set as the main display</source>
+        <target state="translated">Källmedlem måste ställas in som huvudskärm</target>
         <note/>
       </trans-unit>
       <trans-unit id="Source must be on the list of specified members" xml:space="preserve">
         <source>Source must be on the list of specified members</source>
+        <target state="translated">Källan måste finnas med på listan över angivna medlemmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify a list of displays to be excluded from the display group." xml:space="preserve">
         <source>Specify a list of displays to be excluded from the display group.</source>
+        <target state="translated">Ange en lista över skärmar som ska uteslutas från skärmgruppen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify a list of members that should not be watched." xml:space="preserve">
         <source>Specify a list of members that should not be watched.</source>
+        <target state="translated">Ange en lista över medlemmar som inte ska bevakas.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify a list of members that will not be affected by UI scale matching." xml:space="preserve">
         <source>Specify a list of members that will not be affected by UI scale matching.</source>
+        <target state="translated">Ange en lista över medlemmar som inte påverkas av matchningen av UI-skalan.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify a list of members that will not be affected by this synchronization." xml:space="preserve">
         <source>Specify a list of members that will not be affected by this synchronization.</source>
+        <target state="translated">Ange en lista över medlemmar som inte kommer att påverkas av denna synkronisering.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Specify what should happen when the app menu on/off switch is pressed. Not all options may be valid for the display." xml:space="preserve">
         <source>Specify what should happen when the app menu on/off switch is pressed. Not all options may be valid for the display.</source>
+        <target state="translated">Ange vad som ska hända när appmenyns av/på-omkopplare trycks in. Det är inte säkert att alla alternativ är giltiga för skärmen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Standard Framebuffer" xml:space="preserve">
         <source>Standard Framebuffer</source>
+        <target state="translated">Standard Framebuffer</target>
         <note/>
       </trans-unit>
       <trans-unit id="Start Automatically" xml:space="preserve">
@@ -6340,6 +6383,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Start/Stop PIP window" xml:space="preserve">
         <source>Start/Stop PIP window</source>
+        <target state="translated">Starta/Stoppa PIP-fönster</target>
         <note/>
       </trans-unit>
       <trans-unit id="State" xml:space="preserve">
@@ -6414,6 +6458,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Stylish nits counter" xml:space="preserve">
         <source>Stylish nits counter</source>
+        <target state="translated">Snygg nits-räknare</target>
         <note/>
       </trans-unit>
       <trans-unit id="Supported" xml:space="preserve">
@@ -6453,10 +6498,12 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Suspend Color Adjustments" xml:space="preserve">
         <source>Suspend Color Adjustments</source>
+        <target state="translated">Avbryt färgjusteringar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Suspend adjustments (except brightness)" xml:space="preserve">
         <source>Suspend adjustments (except brightness)</source>
+        <target state="translated">Avbryt justeringar (utom ljusstyrka)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swap identical displays" xml:space="preserve">
@@ -6481,14 +6528,17 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Sync source group member display filters" xml:space="preserve">
         <source>Sync source group member display filters</source>
+        <target state="translated">Visningsfilter för medlemmar i synkroniseringskällgrupp</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sync source group member displays" xml:space="preserve">
         <source>Sync source group member displays</source>
+        <target state="translated">Synkronisering av källgruppsmedlemmars skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sync target group member displays" xml:space="preserve">
         <source>Sync target group member displays</source>
+        <target state="translated">Synkronisera målgruppsmedlemmars skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Synchronization Settings" xml:space="preserve">
@@ -6498,14 +6548,17 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Synchronization source configuration" xml:space="preserve">
         <source>Synchronization source configuration</source>
+        <target state="translated">Konfiguration av synkroniseringskälla</target>
         <note/>
       </trans-unit>
       <trans-unit id="Synchronization target configuration" xml:space="preserve">
         <source>Synchronization target configuration</source>
+        <target state="translated">Konfiguration av synkroniseringsmål</target>
         <note/>
       </trans-unit>
       <trans-unit id="Synchronization, UI scale matching or layout protection displays are present" xml:space="preserve">
         <source>Synchronization, UI scale matching or layout protection displays are present</source>
+        <target state="translated">Synkronisering, skalanpassning av användargränssnittet eller skydd av layouten är närvarande</target>
         <note/>
       </trans-unit>
       <trans-unit id="Synchronize %@" xml:space="preserve">
@@ -6515,14 +6568,17 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Synchronize brightness changes triggered externally" xml:space="preserve">
         <source>Synchronize brightness changes triggered externally</source>
+        <target state="translated">Synkronisera ljusstyrkeändringar som utlöses externt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Synchronize external changes only" xml:space="preserve">
         <source>Synchronize external changes only</source>
+        <target state="translated">Synkronisera endast externa ändringar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Synchronize value changes (delta) from sources to targets. This helps keep initial value differences between source and target (until minimum or maximum is reached). When this is disabled, absolute values are synced." xml:space="preserve">
         <source>Synchronize value changes (delta) from sources to targets. This helps keep initial value differences between source and target (until minimum or maximum is reached). When this is disabled, absolute values are synced.</source>
+        <target state="translated">Synkronisera värdeförändringar (delta) från källor till mål. Detta bidrar till att behålla initiala värdeskillnader mellan källa och mål (tills minimum eller maximum har uppnåtts). När detta är avaktiverat synkroniseras absoluta värden.</target>
         <note/>
       </trans-unit>
       <trans-unit id="System Colors" xml:space="preserve">
@@ -6532,6 +6588,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="System Configuration and Flexible Scaling" xml:space="preserve">
         <source>System Configuration and Flexible Scaling</source>
+        <target state="translated">Systemkonfiguration och flexibel skalning</target>
         <note/>
       </trans-unit>
       <trans-unit id="System UUID match" xml:space="preserve">
@@ -6566,106 +6623,135 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="The DDC reset command might not work properly for all displays. You can also try using the built-in factory reset functionality of the display (usually accessible via the display OSD)." xml:space="preserve">
         <source>The DDC reset command might not work properly for all displays. You can also try using the built-in factory reset functionality of the display (usually accessible via the display OSD).</source>
+        <target state="translated">Kommandot för återställning av DDC kanske inte fungerar korrekt för alla skärmar. Du kan också prova att använda den inbyggda funktionen för fabriksåterställning i skärmen (vanligtvis tillgänglig via skärmens OSD).</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app automatically attempts to reconnect all displays when no connected display is present." xml:space="preserve">
         <source>The app automatically attempts to reconnect all displays when no connected display is present.</source>
+        <target state="translated">Appen försöker automatiskt återansluta alla skärmar när det inte finns någon ansluten skärm.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app can automatically connect and disconnect a virtual screen based on the availability of the display(s) it is associated with. It can also auto-start mirroring or streaming or follow the associated display's orientation." xml:space="preserve">
         <source>The app can automatically connect and disconnect a virtual screen based on the availability of the display(s) it is associated with. It can also auto-start mirroring or streaming or follow the associated display's orientation.</source>
+        <target state="translated">Appen kan automatiskt ansluta och koppla bort en virtuell skärm baserat på tillgängligheten för den eller de skärmar som den är kopplad till. Den kan också automatiskt starta spegling eller streaming eller följa den associerade skärmens orientering.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…" xml:space="preserve">
         <source>The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…</source>
+        <target state="translated">Appens menyikon kommer att återspegla ikonen för den aktuella huvudskärmen. Aktivera om du inte gillar standardikonen..</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app menu will show this name instead of the system name for the display. If you want to change the system-wide name, you can do so by enabling the configuration override option and editing the system display name." xml:space="preserve">
         <source>The app menu will show this name instead of the system name for the display. If you want to change the system-wide name, you can do so by enabling the configuration override option and editing the system display name.</source>
+        <target state="translated">Appmenyn visar detta namn i stället för systemnamnet för skärmen. Om du vill ändra det systemomfattande namnet kan du göra det genom att aktivera alternativet Configuration Override och redigera systemets visningsnamn.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app normally does not restore full dimming upon wake or app startup to avoid confusion." xml:space="preserve">
         <source>The app normally does not restore full dimming upon wake or app startup to avoid confusion.</source>
+        <target state="translated">Appen återställer normalt inte full dimning vid uppvaknande eller appstart för att undvika förvirring.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app was launched using Rosetta. Some features won't work." xml:space="preserve">
         <source>The app was launched using Rosetta. Some features won't work.</source>
+        <target state="translated">Appen startades med hjälp av Rosetta. Vissa funktioner kommer inte att fungera.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app will apply the loaded EDID when this display is connected. The operation causes the screen to flicker and switch modes if existing mode is not available with the updated EDID. If the new EDID has different id data (vendor, model, serial), the display will be redetected as a different one. Hold ⇧ Shift on startup to enable safe mode and avoid auto-apply. Physically reconnect display to revert back to the original in case of serious trouble." xml:space="preserve">
         <source>The app will apply the loaded EDID when this display is connected. The operation causes the screen to flicker and switch modes if existing mode is not available with the updated EDID. If the new EDID has different id data (vendor, model, serial), the display will be redetected as a different one. Hold ⇧ Shift on startup to enable safe mode and avoid auto-apply. Physically reconnect display to revert back to the original in case of serious trouble.</source>
+        <target state="translated">Appen kommer att använda den inlästa EDID när skärmen ansluts. Funktionen gör att skärmen flimrar och byter läge om det befintliga läget inte är tillgängligt med det uppdaterade EDID. Om den nya EDID:n har andra id-data (leverantör, modell, serie) kommer skärmen att detekteras på nytt som en annan skärm. Håll ned ⇧ Shift vid start för att aktivera felsäkert läge och undvika automatisk applicering. Återanslut bildskärmen fysiskt för att återgå till originalet vid allvarliga problem.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app will forget all stored DDC values and treat all controls as untouched. Sliders will revert to default neutral values.&#10;&#10;This operation does not reset the display itself." xml:space="preserve">
         <source>The app will forget all stored DDC values and treat all controls as untouched. Sliders will revert to default neutral values.
 
 This operation does not reset the display itself.</source>
+        <target state="translated">Appen glömmer alla lagrade DDC-värden och behandlar alla reglage som orörda. Skjutreglagen återgår till neutrala standardvärden.
+
+Den här åtgärden återställer inte själva skärmen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app will reset all DDC feature settings to its defaults.&#10;&#10;This operation does not reset the display itself." xml:space="preserve">
         <source>The app will reset all DDC feature settings to its defaults.
 
 This operation does not reset the display itself.</source>
+        <target state="translated">Appen återställer alla DDC-funktionsinställningar till standardvärdena.
+
+Den här åtgärden återställer inte själva skärmen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The built-in display is configured to be disconnected when an external display is connected. This setting will be re-enabled when the built-in display is manually disconnected again or the app is restarted." xml:space="preserve">
         <source>The built-in display is configured to be disconnected when an external display is connected. This setting will be re-enabled when the built-in display is manually disconnected again or the app is restarted.</source>
+        <target state="translated">Den inbyggda skärmen är konfigurerad att kopplas bort när en extern skärm ansluts. Denna inställning återaktiveras när den inbyggda skärmen kopplas bort manuellt igen eller när appen startas om.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The built-in display of the iMac cannot be easily reconnected (lack of display cable, closable lid) in case of an application failure. Enable this setting with extra caution!" xml:space="preserve">
         <source>The built-in display of the iMac cannot be easily reconnected (lack of display cable, closable lid) in case of an application failure. Enable this setting with extra caution!</source>
+        <target state="translated">Den inbyggda bildskärmen i iMac kan inte enkelt återanslutas (brist på bildskärmskabel, stängbart lock) i händelse av ett programfel. Aktivera denna inställning med extra försiktighet!</target>
         <note/>
       </trans-unit>
       <trans-unit id="The default input source list reflects commonly occurring assignments, but the actual list varies by display vendor/model. Try using the &quot;LG alt&quot; toggle for some newer LG displays if input control does not work!" xml:space="preserve">
         <source>The default input source list reflects commonly occurring assignments, but the actual list varies by display vendor/model. Try using the "LG alt" toggle for some newer LG displays if input control does not work!</source>
+        <target state="translated">Standardlistan över ingångskällor återspeglar vanligt förekommande uppdrag, men den faktiska listan varierar beroende på skärmtillverkare/modell. Prova att använda "LG alt"-knappen för vissa nyare LG-skärmar om inmatningskontrollen inte fungerar!</target>
         <note/>
       </trans-unit>
       <trans-unit id="The display group is marked as exclusive while at least one other display group with higher priority is active." xml:space="preserve">
         <source>The display group is marked as exclusive while at least one other display group with higher priority is active.</source>
+        <target state="translated">Skärmgruppen är markerad som exklusiv medan minst en annan skärmgrupp med högre prioritet är aktiv.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The display group will be activated or deactivated depending on the activation settings, configured group members and various other factors." xml:space="preserve">
         <source>The display group will be activated or deactivated depending on the activation settings, configured group members and various other factors.</source>
+        <target state="translated">Skärmgruppen aktiveras eller avaktiveras beroende på aktiveringsinställningarna, konfigurerade gruppmedlemmar och olika andra faktorer.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The display group will not activate when other displays are connected beyond group members." xml:space="preserve">
         <source>The display group will not activate when other displays are connected beyond group members.</source>
+        <target state="translated">Skärmgruppen kommer inte att aktiveras när andra skärmar är anslutna utöver gruppmedlemmarna.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The display is DDC capable" xml:space="preserve">
         <source>The display is DDC capable</source>
+        <target state="translated">Skärmen är DDC-kompatibel</target>
         <note/>
       </trans-unit>
       <trans-unit id="The display may not be propery configured for DDC hardware brightness control and other similar features. Use detection and auto-configuration or adjust DDC settings manually." xml:space="preserve">
         <source>The display may not be propery configured for DDC hardware brightness control and other similar features. Use detection and auto-configuration or adjust DDC settings manually.</source>
+        <target state="translated">Skärmen kanske inte är korrekt konfigurerad för DDC hårdvarukontroll av ljusstyrka och andra liknande funktioner. Använd detektering och autokonfiguration eller justera DDC-inställningarna manuellt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The display might have limited DDC support" xml:space="preserve">
         <source>The display might have limited DDC support</source>
+        <target state="translated">Skärmen kan ha begränsat DDC-stöd</target>
         <note/>
       </trans-unit>
       <trans-unit id="The display or connection does not support DDC" xml:space="preserve">
         <source>The display or connection does not support DDC</source>
+        <target state="translated">Skärmen eller anslutningen stöder inte DDC</target>
         <note/>
       </trans-unit>
       <trans-unit id="The display will be automatically disconnected upon detection or physical connect if it was disconnected using the app beforehand. This setting might cause unexpected issues (connect-disconnect cycle with incompatible displays, lack of any connected displays) - use with caution!" xml:space="preserve">
         <source>The display will be automatically disconnected upon detection or physical connect if it was disconnected using the app beforehand. This setting might cause unexpected issues (connect-disconnect cycle with incompatible displays, lack of any connected displays) - use with caution!</source>
+        <target state="translated">Skärmen kommer automatiskt att kopplas bort vid detektering eller fysisk anslutning om den kopplades bort med appen i förväg. Den här inställningen kan orsaka oväntade problem (cykel med anslutning och frånkoppling med inkompatibla skärmar, avsaknad av anslutna skärmar) - använd med försiktighet!</target>
         <note/>
       </trans-unit>
       <trans-unit id="The duplicated group will be disabled by default." xml:space="preserve">
         <source>The duplicated group will be disabled by default.</source>
+        <target state="translated">Den duplicerade gruppen kommer att vara inaktiverad som standard.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The menu bar icon is aligned to the center relative to the app menu. Disable this for a more traditional look (align the menu bar icon to the left side of the app menu)." xml:space="preserve">
         <source>The menu bar icon is aligned to the center relative to the app menu. Disable this for a more traditional look (align the menu bar icon to the left side of the app menu).</source>
+        <target state="translated">Ikonen för menyfältet är centrerad i förhållande till appmenyn. Inaktivera detta för ett mer traditionellt utseende (justera ikonen för menyraden till vänster om appmenyn).</target>
         <note/>
       </trans-unit>
       <trans-unit id="The nits counter will offer clear (and slightly exaggerated) visual feedback during upscaling." xml:space="preserve">
         <source>The nits counter will offer clear (and slightly exaggerated) visual feedback during upscaling.</source>
+        <target state="translated">Nits-räknaren ger tydlig (och något överdriven) visuell feedback under uppskalning.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The operation completed successfully." xml:space="preserve">
         <source>The operation completed successfully.</source>
+        <target state="translated">Operationen slutfördes framgångsrikt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The operation completed successfully.&#10;&#10;A new display group with the name '%@' was created. The display group is currently not enabled.&#10;&#10;Enable and configure the created display group (including layout protection) under Settings > Groups!" xml:space="preserve">
@@ -6674,62 +6760,84 @@ This operation does not reset the display itself.</source>
 A new display group with the name '%@' was created. The display group is currently not enabled.
 
 Enable and configure the created display group (including layout protection) under Settings &gt; Groups!</source>
+        <target state="translated">Operationen slutfördes framgångsrikt.
+
+En ny skärmgrupp med namnet "%@" har skapats. Skärmgruppen är för närvarande inte aktiverad.
+
+Aktivera och konfigurera den skapade skärmgruppen (inklusive layoutskydd) under Inställningar &gt; Grupper!</target>
         <note/>
       </trans-unit>
       <trans-unit id="The operation completed successfully. Please Apply the configuration changes and follow further instructions!" xml:space="preserve">
         <source>The operation completed successfully. Please Apply the configuration changes and follow further instructions!</source>
+        <target state="translated">Operationen slutfördes framgångsrikt. Tillämpa konfigurationsändringarna och följ vidare instruktioner!</target>
         <note/>
       </trans-unit>
       <trans-unit id="The operation could not be performed at this time." xml:space="preserve">
         <source>The operation could not be performed at this time.</source>
+        <target state="translated">Operationen kunde inte genomföras vid denna tidpunkt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The operation could not be performed." xml:space="preserve">
         <source>The operation could not be performed.</source>
+        <target state="translated">Operationen kunde inte utföras.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The operation might cause the screen to flicker and switch mode if the existing mode is not available with the factory EDID. The display will be redetected as a different display if the current EDID has different identifiers.&#10;&#10;In case of a failure, disconnect and reconnect the display physically." xml:space="preserve">
         <source>The operation might cause the screen to flicker and switch mode if the existing mode is not available with the factory EDID. The display will be redetected as a different display if the current EDID has different identifiers.
 
 In case of a failure, disconnect and reconnect the display physically.</source>
+        <target state="translated">Funktionen kan leda till att skärmen flimrar och byter läge om det befintliga läget inte är tillgängligt med fabriks-EDID. Skärmen kommer att detekteras på nytt som en annan skärm om den aktuella EDID har olika identifierare.
+
+I händelse av fel ska du koppla bort och återansluta skärmen fysiskt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The operation might cause the screen to flicker and switch mode if the existing mode is not available with the updated EDID. The display will be redetected as a different display if the EDID has different identifiers.&#10;&#10;In case of a failure, disconnect and reconnect the display physically." xml:space="preserve">
         <source>The operation might cause the screen to flicker and switch mode if the existing mode is not available with the updated EDID. The display will be redetected as a different display if the EDID has different identifiers.
 
 In case of a failure, disconnect and reconnect the display physically.</source>
+        <target state="translated">Det kan hända att skärmen flimrar och byter läge om det befintliga läget inte är tillgängligt med den uppdaterade EDID:n. Skärmen kommer att detekteras på nytt som en annan skärm om EDID har olika identifierare.
+
+I händelse av fel ska du koppla bort och återansluta skärmen fysiskt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The physical dimension (used to calculate UI scaling) associated with a virtual screen is determined primarily by the 'reported diagonal size' setting which can be further modified by the 'display physical dimensions' setting when the virtual screen is connected." xml:space="preserve">
         <source>The physical dimension (used to calculate UI scaling) associated with a virtual screen is determined primarily by the 'reported diagonal size' setting which can be further modified by the 'display physical dimensions' setting when the virtual screen is connected.</source>
+        <target state="translated">Den fysiska dimensionen (som används för att beräkna skalningen av användargränssnittet) för en virtuell skärm bestäms i första hand av inställningen "rapporterad diagonalstorlek", som kan ändras ytterligare med inställningen "visa fysiska dimensioner" när den virtuella skärmen är ansluten.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The physical dimension (used to calculate UI scaling) associated with a virtual screen is determined primarily by the 'reported diagonal size' setting which can be further modified by the `display physical dimensions` setting when the virtual screen is connected." xml:space="preserve">
         <source>The physical dimension (used to calculate UI scaling) associated with a virtual screen is determined primarily by the 'reported diagonal size' setting which can be further modified by the `display physical dimensions` setting when the virtual screen is connected.</source>
+        <target state="translated">Den fysiska dimensionen (som används för att beräkna skalningen av användargränssnittet) för en virtuell skärm bestäms i första hand av inställningen "rapporterad diagonalstorlek", som kan ändras ytterligare med inställningen "visa fysiska dimensioner" när den virtuella skärmen är ansluten.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The slider will omit resolutions that do not match the display's size in order to reduce clutter and make slider easier to use. Affects resolution keyboard shortcuts as well." xml:space="preserve">
         <source>The slider will omit resolutions that do not match the display's size in order to reduce clutter and make slider easier to use. Affects resolution keyboard shortcuts as well.</source>
+        <target state="translated">Skjutreglaget kommer att utelämna upplösningar som inte matchar skärmens storlek för att minska röran och göra skjutreglaget enklare att använda. Påverkar även kortkommandon för upplösningar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The system might reconnect the built-in display and other displays after wake from sleep to ensure GUI access. With this option enabled, the app forcefully disconnects these displays again. Post-wake main display will not be disconnected." xml:space="preserve">
         <source>The system might reconnect the built-in display and other displays after wake from sleep to ensure GUI access. With this option enabled, the app forcefully disconnects these displays again. Post-wake main display will not be disconnected.</source>
+        <target state="translated">Systemet kan återansluta den inbyggda skärmen och andra skärmar efter uppvaknande från viloläge för att säkerställa GUI-åtkomst. När det här alternativet är aktiverat kopplar appen tvångsmässigt bort dessa skärmar igen. Huvudskärmen efter uppvaknandet kopplas inte bort.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The time it takes for the app to enter into an active state after the system wakes from a sleep." xml:space="preserve">
         <source>The time it takes for the app to enter into an active state after the system wakes from a sleep.</source>
+        <target state="translated">Den tid det tar för appen att gå in i ett aktivt läge efter att systemet har vaknat från viloläge.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The time it takes for the app to respond to a configuration change." xml:space="preserve">
         <source>The time it takes for the app to respond to a configuration change.</source>
+        <target state="translated">Den tid det tar för appen att reagera på en konfigurationsändring.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The virtual screen created with this aspect ratio does not seem to be viable." xml:space="preserve">
         <source>The virtual screen created with this aspect ratio does not seem to be viable.</source>
+        <target state="translated">Den virtuella skärm som skapas med detta bildförhållande verkar inte vara genomförbar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="The virtual screen is now associated with a display and to comply with association settings, the virtual screen should automatically change its connection status. Alternatively you can disable auto-connect (it can be enabled any time under association settings)." xml:space="preserve">
         <source>The virtual screen is now associated with a display and to comply with association settings, the virtual screen should automatically change its connection status. Alternatively you can disable auto-connect (it can be enabled any time under association settings).</source>
+        <target state="translated">Den virtuella skärmen är nu kopplad till en skärm och för att följa associationsinställningarna bör den virtuella skärmen automatiskt ändra sin anslutningsstatus. Alternativt kan du avaktivera automatisk anslutning (den kan aktiveras när som helst under associationsinställningar).</target>
         <note/>
       </trans-unit>
       <trans-unit id="The virtual screen was not created." xml:space="preserve">
@@ -6739,10 +6847,12 @@ In case of a failure, disconnect and reconnect the display physically.</source>
       </trans-unit>
       <trans-unit id="The ⇧ Shift key was pressed during launch. The app started in safe mode." xml:space="preserve">
         <source>The ⇧ Shift key was pressed during launch. The app started in safe mode.</source>
+        <target state="translated">Shift-tangenten ⇧ trycktes in under uppstart. Appen startades i felsäkert läge.</target>
         <note/>
       </trans-unit>
       <trans-unit id="There are not at least two display group members present." xml:space="preserve">
         <source>There are not at least two display group members present.</source>
+        <target state="translated">Det finns inte minst två medlemmar i skärmgruppen närvarande.</target>
         <note/>
       </trans-unit>
       <trans-unit id="There are some unapplied system configuration changes." xml:space="preserve">
@@ -6757,118 +6867,150 @@ In case of a failure, disconnect and reconnect the display physically.</source>
       </trans-unit>
       <trans-unit id="There is no group member present." xml:space="preserve">
         <source>There is no group member present.</source>
+        <target state="translated">Det finns ingen gruppmedlem närvarande.</target>
         <note/>
       </trans-unit>
       <trans-unit id="There is not at least one display group member present." xml:space="preserve">
         <source>There is not at least one display group member present.</source>
+        <target state="translated">Det finns inte minst en medlem i skärmgruppen närvarande.</target>
         <note/>
       </trans-unit>
       <trans-unit id="These three identifiers (serial number, vendor and model ID) serve as the basis for display identification in macOS. If any of these three identifiers are changed, the system will assign a new identity (UUID) to the virtual screen and treat it as newly connected display." xml:space="preserve">
         <source>These three identifiers (serial number, vendor and model ID) serve as the basis for display identification in macOS. If any of these three identifiers are changed, the system will assign a new identity (UUID) to the virtual screen and treat it as newly connected display.</source>
+        <target state="translated">Dessa tre identifierare (serienummer, tillverkar- och modell-ID) utgör grunden för skärmidentifiering i macOS. Om någon av dessa tre identifierare ändras kommer systemet att tilldela en ny identitet (UUID) till den virtuella skärmen och behandla den som en nyansluten skärm.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Third-party external display" xml:space="preserve">
         <source>Third-party external display</source>
+        <target state="translated">Extern skärm från tredje part</target>
         <note/>
       </trans-unit>
       <trans-unit id="This allows additional image adjustment control options when color table adjustments are not enabled or available. Comes with a slight performance penalty. This feature is always active when software brightness upscaling is turned on while color table adjustments are not available." xml:space="preserve">
         <source>This allows additional image adjustment control options when color table adjustments are not enabled or available. Comes with a slight performance penalty. This feature is always active when software brightness upscaling is turned on while color table adjustments are not available.</source>
+        <target state="translated">Detta ger ytterligare kontrollalternativ för bildjustering när färgtabelljusteringar inte är aktiverade eller tillgängliga. Detta medför en liten prestandaförlust. Den här funktionen är alltid aktiv när uppskalning av ljusstyrka i programvara är aktiverad medan färgtabelljusteringar inte är tillgängliga.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This allows advanced dimming, color adjustments and other features like software XDR/HDR upscaling. Note: color adjustments clip HDR content when in active use. If this option is disabled, the app will fall back to overlay based dimming control and uses Metal for software XDR/HDR upscaling." xml:space="preserve">
         <source>This allows advanced dimming, color adjustments and other features like software XDR/HDR upscaling. Note: color adjustments clip HDR content when in active use. If this option is disabled, the app will fall back to overlay based dimming control and uses Metal for software XDR/HDR upscaling.</source>
+        <target state="translated">Detta möjliggör avancerad dimning, färgjusteringar och andra funktioner som XDR/HDR-uppskalning med programvara. Obs: färgjusteringar klipper HDR-innehåll när det används aktivt. Om det här alternativet inaktiveras återgår appen till överläggsbaserad dimmerkontroll och använder Metal för XDR/HDR-uppskalning i programvara.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This applies both to physically connecting an external display and using the app to reconnect one. However, the app will not reconnect the built-in display if you allow all displays to be disconnected!" xml:space="preserve">
         <source>This applies both to physically connecting an external display and using the app to reconnect one. However, the app will not reconnect the built-in display if you allow all displays to be disconnected!</source>
+        <target state="translated">Detta gäller både för att fysiskt ansluta en extern skärm och för att använda appen för att återansluta en. Appen kommer dock inte att återansluta den inbyggda skärmen om du tillåter att alla skärmar kopplas bort!</target>
         <note/>
       </trans-unit>
       <trans-unit id="This can be a result of disabled DDC/CI support (check the display's OSD), display firmware limitations or connection issues. Many TVs and TV-derived smart monitors do not support DDC. If the issue cannot be resolved either by changing display settings or fixing cable issues, you should disable DDC support." xml:space="preserve">
         <source>This can be a result of disabled DDC/CI support (check the display's OSD), display firmware limitations or connection issues. Many TVs and TV-derived smart monitors do not support DDC. If the issue cannot be resolved either by changing display settings or fixing cable issues, you should disable DDC support.</source>
+        <target state="translated">Detta kan bero på inaktiverat DDC/CI-stöd (kontrollera skärmens OSD), begränsningar i skärmens inbyggda programvara eller anslutningsproblem. Många TV-apparater och TV-deriverade smarta monitorer har inte stöd för DDC. Om problemet inte kan lösas genom att ändra bildskärmsinställningarna eller åtgärda kabelproblem bör du inaktivera DDC-stödet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This configures how the data associated with the currently configured display is matched to a detected display during the configuration/detection process. Changing this setting might cause a display to be recognized as previously unconnected and disassociate existing saved display configuration data. System UUID match uses the MacOS default identification. When set to use basic identifiers, the app identifies the display by its vendor/model IDs and serial number. With extended it also uses product name, alphanumeric serial number, and production date. With location the app also considers hardware connectivity data." xml:space="preserve">
         <source>This configures how the data associated with the currently configured display is matched to a detected display during the configuration/detection process. Changing this setting might cause a display to be recognized as previously unconnected and disassociate existing saved display configuration data. System UUID match uses the MacOS default identification. When set to use basic identifiers, the app identifies the display by its vendor/model IDs and serial number. With extended it also uses product name, alphanumeric serial number, and production date. With location the app also considers hardware connectivity data.</source>
+        <target state="translated">Detta konfigurerar hur data som är associerade med den aktuella konfigurerade displayen matchas med en detekterad display under konfigurations- och detekteringsprocessen. Om du ändrar den här inställningen kan det hända att en skärm identifieras som tidigare oansluten och att befintliga sparade konfigurationsdata för skärmen kopplas bort. Matchning av system-UUID använder MacOS standardidentifiering. När appen är inställd på att använda grundläggande identifierare identifierar den bildskärmen med hjälp av dess leverantörs-/modell-ID och serienummer. Med utökad användning används även produktnamn, alfanumeriskt serienummer och produktionsdatum. Med plats tar appen även hänsyn till data om maskinvaruanslutning.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This display group does not have member displays." xml:space="preserve">
         <source>This display group does not have member displays.</source>
+        <target state="translated">Denna skärmgrupp har inga medlemsskärmar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This display is the main display. Are you sure you want to turn the backlight off?" xml:space="preserve">
         <source>This display is the main display. Are you sure you want to turn the backlight off?</source>
+        <target state="translated">Den här skärmen är huvudskärm. Är du säker på att du vill stänga av bakgrundsbelysningen?</target>
         <note/>
       </trans-unit>
       <trans-unit id="This display is the main display. Are you sure you want to turn the display off?&#10;&#10;Please note that not all displays support DDC power operations and some displays may not behave as expected. If you power off your display, you will have to power it back on manually." xml:space="preserve">
         <source>This display is the main display. Are you sure you want to turn the display off?
 
 Please note that not all displays support DDC power operations and some displays may not behave as expected. If you power off your display, you will have to power it back on manually.</source>
+        <target state="translated">Den här skärmen är huvudskärm. Är du säker på att du vill stänga av skärmen?
+
+Observera att inte alla skärmar stöder DDC-strömförsörjning och att vissa skärmar kanske inte beter sig som förväntat. Om du stänger av skärmen måste du slå på den igen manuellt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This is a workaround of an issue present in some versions of macOS Sonoma which occasionally prevents a display's custom configuration to be loaded properly. With this setting the app attempts to reinitialize the display if flexible scaling resolutions seem to be missing." xml:space="preserve">
         <source>This is a workaround of an issue present in some versions of macOS Sonoma which occasionally prevents a display's custom configuration to be loaded properly. With this setting the app attempts to reinitialize the display if flexible scaling resolutions seem to be missing.</source>
+        <target state="translated">Detta är en lösning på ett problem som finns i vissa versioner av macOS Sonoma som ibland förhindrar att en skärms anpassade konfiguration laddas korrekt. Med den här inställningen försöker appen att initiera skärmen på nytt om flexibla skalningsupplösningar verkar saknas.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This is in addition to the configured wake delay (%@ seconds), configuration delay (%@ seconds) and the time it takes to configure the displays." xml:space="preserve">
         <source>This is in addition to the configured wake delay (%1$@ seconds), configuration delay (%2$@ seconds) and the time it takes to configure the displays.</source>
+        <target state="translated">Detta är utöver den konfigurerade väckningsfördröjningen (%1$@ sekunder), konfigurationsfördröjningen (%2$@ sekunder) och den tid det tar att konfigurera skärmarna.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This is required for color adjustments and a better software dimming and XDR/HDR upscaling experience. Recommended to leave enabled. Turn this off for compatibility with some third party apps that also alter system colors." xml:space="preserve">
         <source>This is required for color adjustments and a better software dimming and XDR/HDR upscaling experience. Recommended to leave enabled. Turn this off for compatibility with some third party apps that also alter system colors.</source>
+        <target state="translated">Detta krävs för färgjusteringar och en bättre upplevelse av mjukvarudimning och XDR/HDR-uppskalning. Rekommenderas att vara aktiverad. Stäng av detta för kompatibilitet med vissa appar från tredje part som också ändrar systemfärger.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This is the default display group. This group cannot be removed but can be disabled or made inactive by changing activation settings." xml:space="preserve">
         <source>This is the default display group. This group cannot be removed but can be disabled or made inactive by changing activation settings.</source>
+        <target state="translated">Detta är den förvalda skärmgruppen. Den här gruppen kan inte tas bort, men kan inaktiveras eller göras inaktiv genom att ändra aktiveringsinställningarna.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This is the recommended setting." xml:space="preserve">
         <source>This is the recommended setting.</source>
+        <target state="translated">Detta är den rekommenderade inställningen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This menu item is redundant if the header is set to present the function as a switch." xml:space="preserve">
         <source>This menu item is redundant if the header is set to present the function as a switch.</source>
+        <target state="translated">Detta menyalternativ är överflödigt om sidhuvudet är inställt för att presentera funktionen som en omkopplare.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This might help solve issues with certain configurations." xml:space="preserve">
         <source>This might help solve issues with certain configurations.</source>
+        <target state="translated">Detta kan hjälpa till att lösa problem med vissa konfigurationer.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This might not work properly with all displays (especially low PPI ones) and might create a pixel-doubled LoDPI default resolution instead on Intel Macs." xml:space="preserve">
         <source>This might not work properly with all displays (especially low PPI ones) and might create a pixel-doubled LoDPI default resolution instead on Intel Macs.</source>
+        <target state="translated">Det här kanske inte fungerar korrekt med alla skärmar (särskilt de med låg PPI) och kan skapa en pixeldubblad LoDPI-standardexponering i stället på Intel Mac-datorer.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This name is used by macOS system-wide." xml:space="preserve">
         <source>This name is used by macOS system-wide.</source>
+        <target state="translated">Detta namn används av macOS i hela systemet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This operation will disconnect and reconnect all currently connected virtual screens!" xml:space="preserve">
         <source>This operation will disconnect and reconnect all currently connected virtual screens!</source>
+        <target state="translated">Denna åtgärd kommer att koppla bort och återansluta alla virtuella skärmar som för närvarande är anslutna!</target>
         <note/>
       </trans-unit>
       <trans-unit id="This provides a cleaner look when the slider is not in active use." xml:space="preserve">
         <source>This provides a cleaner look when the slider is not in active use.</source>
+        <target state="translated">Detta ger ett renare utseende när skjutreglaget inte används aktivt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This resolution is used as default (as HiDPI if available) when the display is included in a new layout." xml:space="preserve">
         <source>This resolution is used as default (as HiDPI if available) when the display is included in a new layout.</source>
+        <target state="translated">Den här upplösningen används som standard (som HiDPI om det finns tillgängligt) när skärmen inkluderas i en ny layout.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This resolution is used as default when the display is included in a new layout. Results might be approximate only on Intel Macs." xml:space="preserve">
         <source>This resolution is used as default when the display is included in a new layout. Results might be approximate only on Intel Macs.</source>
+        <target state="translated">Den här upplösningen används som standard när skärmen inkluderas i en ny layout. Resultaten kan vara ungefärliga endast på Intel Macs.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This restores the default settings and restarts the app.&#10;&#10;Please note that previously stored custom display configurations won't be removed from the system!" xml:space="preserve">
         <source>This restores the default settings and restarts the app.
 
 Please note that previously stored custom display configurations won't be removed from the system!</source>
+        <target state="translated">Detta återställer standardinställningarna och startar om appen.
+
+Observera att tidigare lagrade anpassade skärmkonfigurationer inte kommer att tas bort från systemet!</target>
         <note/>
       </trans-unit>
       <trans-unit id="This setting applies to screens/displays that are scalable (virtual screens, real displays with flexible scaling enabled). Default resolution is 100%." xml:space="preserve">
         <source>This setting applies to screens/displays that are scalable (virtual screens, real displays with flexible scaling enabled). Default resolution is 100%.</source>
+        <target state="translated">Denna inställning gäller för skärmar/displayer som är skalbara (virtuella skärmar, verkliga skärmar med flexibel skalning aktiverad). Standardupplösningen är 100%.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This should match the physical resolution of the display panel (actual number of pixels vertically and horizontally)." xml:space="preserve">
         <source>This should match the physical resolution of the display panel (actual number of pixels vertically and horizontally).</source>
+        <target state="translated">Detta ska stämma överens med den fysiska upplösningen på bildskärmen (faktiskt antal pixlar vertikalt och horisontellt).</target>
         <note/>
       </trans-unit>
       <trans-unit id="This should remove displays from the display layout and make them enter standby mode on compatible systems.&#10;&#10;Some displays are not compatible with this feature and may not turn off or remain turned off.&#10;&#10;If you can't turn the display back on using the app, try reconnecting the display manually (or in case of the MacBook display, close and open the lid)." xml:space="preserve">
@@ -6877,6 +7019,11 @@ Please note that previously stored custom display configurations won't be remove
 Some displays are not compatible with this feature and may not turn off or remain turned off.
 
 If you can't turn the display back on using the app, try reconnecting the display manually (or in case of the MacBook display, close and open the lid).</source>
+        <target state="translated">Detta bör ta bort skärmar från skärmlayouten och få dem att gå in i standby-läge på kompatibla system.
+
+Vissa bildskärmar är inte kompatibla med den här funktionen och kanske inte stängs av eller förblir avstängda.
+
+Om du inte kan slå på skärmen igen med appen kan du försöka återansluta skärmen manuellt (eller stänga och öppna locket om det gäller MacBook-skärmen).</target>
         <note/>
       </trans-unit>
       <trans-unit id="This should remove the display from the display layout and make the display enter standby mode.&#10;&#10;Some displays are not compatible with this feature and may not turn off or remain off.&#10;&#10;If you can't turn the display back on using the app, try reconnecting the display manually (or in case of the MacBook display, close and open the lid)." xml:space="preserve">
@@ -6885,6 +7032,11 @@ If you can't turn the display back on using the app, try reconnecting the displa
 Some displays are not compatible with this feature and may not turn off or remain off.
 
 If you can't turn the display back on using the app, try reconnecting the display manually (or in case of the MacBook display, close and open the lid).</source>
+        <target state="translated">Detta bör ta bort skärmen från skärmlayouten och få skärmen att gå in i standby-läge.
+
+Vissa skärmar är inte kompatibla med den här funktionen och kanske inte stängs av eller förblir avstängda.
+
+Om du inte kan slå på skärmen igen med appen kan du försöka återansluta skärmen manuellt (eller stänga och öppna locket om det gäller MacBook-skärmen).</target>
         <note/>
       </trans-unit>
       <trans-unit id="This should remove the display from the display layout.&#10;&#10;Please note that on Intel Macs (such as this Mac) the feature might not work as expected!&#10;&#10;IMPORTANT: While the display is in a disconnected state (via the app), physically turning the display off, removing the cable or (for a built-in display) closing the lid may result in an inability to turn any displays back on (until a reboot)!" xml:space="preserve">
@@ -6893,10 +7045,16 @@ If you can't turn the display back on using the app, try reconnecting the displa
 Please note that on Intel Macs (such as this Mac) the feature might not work as expected!
 
 IMPORTANT: While the display is in a disconnected state (via the app), physically turning the display off, removing the cable or (for a built-in display) closing the lid may result in an inability to turn any displays back on (until a reboot)!</source>
+        <target state="translated">Detta bör ta bort skärmen från skärmlayouten.
+
+Observera att på Intel Mac-datorer (t.ex. denna Mac) kanske funktionen inte fungerar som förväntat!
+
+VIKTIGT: När skärmen är frånkopplad (via appen) kan det hända att det inte går att slå på någon skärm igen (förrän efter en omstart) om du fysiskt stänger av skärmen, tar bort kabeln eller (för en inbyggd skärm) stänger locket!</target>
         <note/>
       </trans-unit>
       <trans-unit id="This shows options for the current resolution. See Display Modes menu for the full list." xml:space="preserve">
         <source>This shows options for the current resolution. See Display Modes menu for the full list.</source>
+        <target state="translated">Här visas alternativ för den aktuella upplösningen. Se menyn Skärmlägen för en fullständig lista.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This virtual screen cannot be manually connected!" xml:space="preserve">
@@ -6913,14 +7071,19 @@ IMPORTANT: While the display is in a disconnected state (via the app), physicall
         <source>This virtual screen needs to be reconnected for all configuration changes to take place! During this operation the display will not be available for a moment!
 
 You can dismiss this notification - in this case the changes will be applied when the virtual screen is connected next time.</source>
+        <target state="translated">Denna virtuella skärm måste återanslutas för att alla konfigurationsändringar ska kunna genomföras! Under denna operation kommer skärmen inte att vara tillgänglig under ett ögonblick!
+
+Du kan avvisa detta meddelande - i så fall kommer ändringarna att tillämpas när den virtuella skärmen ansluts nästa gång.</target>
         <note/>
       </trans-unit>
       <trans-unit id="This virtual screen should now be connected" xml:space="preserve">
         <source>This virtual screen should now be connected</source>
+        <target state="translated">Denna virtuella skärm bör nu vara ansluten</target>
         <note/>
       </trans-unit>
       <trans-unit id="This virtual screen should now be disconnected" xml:space="preserve">
         <source>This virtual screen should now be disconnected</source>
+        <target state="translated">Denna virtuella skärm bör nu vara frånkopplad</target>
         <note/>
       </trans-unit>
       <trans-unit id="Title Bar &amp; Window Controls" xml:space="preserve">
@@ -6930,10 +7093,12 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="To make your Apple keyboard's brightness and volume keys control your external display, please add the app to **System Settings > Privacy &amp; Security > Accessibility**! After this, you'll have to restart the app. Alternatively, you can disable native keyboard control in Settings." xml:space="preserve">
         <source>To make your Apple keyboard's brightness and volume keys control your external display, please add the app to **System Settings &gt; Privacy &amp; Security &gt; Accessibility**! After this, you'll have to restart the app. Alternatively, you can disable native keyboard control in Settings.</source>
+        <target state="translated">För att få ljusstyrka och volymknapparna på ditt Apple-tangentbord att styra din externa skärm, lägg till appen i **Systeminställningar &gt; Sekretess och säkerhet &gt; Tillgänglighet**! Efter detta måste du starta om appen. Alternativt kan du inaktivera inbyggd tangentbordskontroll i Inställningar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="To open Settings, use the Tools menu, hold ⌥ Option while clicking on the app menu icon or launch the app again while it is already running." xml:space="preserve">
         <source>To open Settings, use the Tools menu, hold ⌥ Option while clicking on the app menu icon or launch the app again while it is already running.</source>
+        <target state="translated">För att öppna Inställningar använder du Verktyg-menyn, håller ⌥ Alternativ nedtryckt medan du klickar på appens menyikon eller startar appen igen när den redan är igång.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle Dark Mode" xml:space="preserve">
@@ -6963,10 +7128,12 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Toggle brightness upscaling" xml:space="preserve">
         <source>Toggle brightness upscaling</source>
+        <target state="translated">Växla uppskalning av ljusstyrka</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle built-in display" xml:space="preserve">
         <source>Toggle built-in display</source>
+        <target state="translated">Växla inbyggd skärm</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle cropping" xml:space="preserve">
@@ -6976,10 +7143,12 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Toggle mute (DDC)" xml:space="preserve">
         <source>Toggle mute (DDC)</source>
+        <target state="translated">Växla tyst (DDC)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggle notch for display" xml:space="preserve">
         <source>Toggle notch for display</source>
+        <target state="needs-translation"></target>
         <note/>
       </trans-unit>
       <trans-unit id="Toggles" xml:space="preserve">
@@ -6989,6 +7158,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Toggles are available under the Manage Display (or Virtual Screen) menu when hidden." xml:space="preserve">
         <source>Toggles are available under the Manage Display (or Virtual Screen) menu when hidden.</source>
+        <target state="translated">Växlingsknapparna är tillgängliga under menyn Hantera skärm (eller Virtuell skärm) när de är dolda.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tools" xml:space="preserve">
@@ -7006,6 +7176,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Treat all currently connected displays as group members" xml:space="preserve">
         <source>Treat all currently connected displays as group members</source>
+        <target state="translated">Behandla alla för närvarande anslutna skärmar som gruppmedlemmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Treat as generic third-party (non-Apple) display" xml:space="preserve">
@@ -7015,6 +7186,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Treat newly connected displays as possibly watched displays" xml:space="preserve">
         <source>Treat newly connected displays as possibly watched displays</source>
+        <target state="translated">Behandla nyligen anslutna skärmar som eventuellt bevakade skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Treat shortcuts as rotation toggles" xml:space="preserve">
@@ -7024,6 +7196,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Treat this display (identified as Apple-made) as generic and allow DDC control to be enabled. Might cause permanent issues on some older Apple displays!" xml:space="preserve">
         <source>Treat this display (identified as Apple-made) as generic and allow DDC control to be enabled. Might cause permanent issues on some older Apple displays!</source>
+        <target state="translated">Behandla den här skärmen (identifierad som Apple-tillverkad) som en generisk skärm och låt DDC-styrning aktiveras. Kan orsaka permanenta problem på vissa äldre Apple-skärmar!</target>
         <note/>
       </trans-unit>
       <trans-unit id="True Tone turned off by HDR toggle" xml:space="preserve">
@@ -7033,18 +7206,22 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Try the latest features by enrolling as a pre-release tester. If you are already running a pre-release version, you'll receive pre-release updates until the next stable release even if this option is disabled." xml:space="preserve">
         <source>Try the latest features by enrolling as a pre-release tester. If you are already running a pre-release version, you'll receive pre-release updates until the next stable release even if this option is disabled.</source>
+        <target state="translated">Prova de senaste funktionerna genom att registrera dig som testare av en förhandsversion. Om du redan kör en förhandsversion kommer du att få uppdateringar fram till nästa stabila version även om det här alternativet är inaktiverat.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Turn Display Backlight Off" xml:space="preserve">
         <source>Turn Display Backlight Off</source>
+        <target state="translated">Stäng av skärmens bakgrundsbelysning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Turn Display Backlight Off?" xml:space="preserve">
         <source>Turn Display Backlight Off?</source>
+        <target state="translated">Stäng av skärmens bakgrundsbelysning?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Turn Display Backlight On" xml:space="preserve">
         <source>Turn Display Backlight On</source>
+        <target state="translated">Slå på skärmens bakgrundsbelysning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Turn Display Off" xml:space="preserve">
@@ -7059,10 +7236,12 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Turn backlight off" xml:space="preserve">
         <source>Turn backlight off</source>
+        <target state="translated">Stäng av bakgrundsbelysningen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Turn backlight on" xml:space="preserve">
         <source>Turn backlight on</source>
+        <target state="translated">Slå på bakgrundsbelysningen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Turn display off" xml:space="preserve">
@@ -7072,30 +7251,37 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Turn off (non-main) display backlight on screen saver or lock" xml:space="preserve">
         <source>Turn off (non-main) display backlight on screen saver or lock</source>
+        <target state="translated">Stäng av bakgrundsbelysningen (ej huvudbelysning) vid skärmsläckare eller lås</target>
         <note/>
       </trans-unit>
       <trans-unit id="Turn off Night Shift and True Tone in HDR mode" xml:space="preserve">
         <source>Turn off Night Shift and True Tone in HDR mode</source>
+        <target state="translated">Stäng av Night Shift och True Tone i HDR-läget</target>
         <note/>
       </trans-unit>
       <trans-unit id="Turn off display backlight when combined brightness is set to zero" xml:space="preserve">
         <source>Turn off display backlight when combined brightness is set to zero</source>
+        <target state="translated">Stäng av skärmens bakgrundsbelysning när den kombinerade ljusstyrkan är inställd på noll</target>
         <note/>
       </trans-unit>
       <trans-unit id="Turn this off to prohibit the native XDR upscaling from activating on app start or be available in the XDR Preset menu." xml:space="preserve">
         <source>Turn this off to prohibit the native XDR upscaling from activating on app start or be available in the XDR Preset menu.</source>
+        <target state="translated">Stäng av detta för att förhindra att den inbyggda XDR-uppskalningen aktiveras vid appstart eller är tillgänglig i XDR-förinställningsmenyn.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Turning this off reduces system load for XDR displays when auto brightness is enabled but makes upscaling a less smooth experience." xml:space="preserve">
         <source>Turning this off reduces system load for XDR displays when auto brightness is enabled but makes upscaling a less smooth experience.</source>
+        <target state="translated">Om du stänger av den här funktionen minskar systembelastningen för XDR-skärmar när automatisk ljusstyrka är aktiverad, men uppskalningen blir inte lika smidig.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Typical optimal values for contrast are 50%, 70%, 75%, 100%. Make sure you select a value that does not create an issue with white saturation!" xml:space="preserve">
         <source>Typical optimal values for contrast are 50%, 70%, 75%, 100%. Make sure you select a value that does not create an issue with white saturation!</source>
+        <target state="translated">Typiska optimala värden för kontrast är 50 %, 70 %, 75 % och 100 %. Se till att du väljer ett värde som inte skapar problem med vitmättnad!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Typical setting is 100% but some displays prefer 50%." xml:space="preserve">
         <source>Typical setting is 100% but some displays prefer 50%.</source>
+        <target state="translated">Typisk inställning är 100%, men vissa skärmar föredrar 50%.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Typical value is 100%." xml:space="preserve">
@@ -7105,6 +7291,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Typical values include: 100, 200 or 255 (note: 255 works for most old DDC compatible Apple Cinema / LED displays and helps avoid permanent dimming issue)." xml:space="preserve">
         <source>Typical values include: 100, 200 or 255 (note: 255 works for most old DDC compatible Apple Cinema / LED displays and helps avoid permanent dimming issue).</source>
+        <target state="translated">Typiska värden inkluderar: 100, 200 eller 255 (Obs: 255 fungerar för de flesta gamla DDC-kompatibla Apple Cinema/LED-skärmar och hjälper till att undvika problem med permanent dimning).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Typical values include: 100, 200 or 255." xml:space="preserve">
@@ -7138,6 +7325,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Unable to connect to the virtual screen to set up streaming" xml:space="preserve">
         <source>Unable to connect to the virtual screen to set up streaming</source>
+        <target state="translated">Det går inte att ansluta till den virtuella skärmen för att konfigurera streaming</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unable to connect virtual screen" xml:space="preserve">
@@ -7166,18 +7354,22 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Undo/redo last mode change" xml:space="preserve">
         <source>Undo/redo last mode change</source>
+        <target state="translated">Ångra/återställa senaste lägesändring</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unexposed refresh rate switch for Configuration Protection" xml:space="preserve">
         <source>Unexposed refresh rate switch for Configuration Protection</source>
+        <target state="translated">Oexponerat byte av uppdateringsfrekvens för konfigurationsskydd</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unhide Stream" xml:space="preserve">
         <source>Unhide Stream</source>
+        <target state="translated">Visa stream</target>
         <note/>
       </trans-unit>
       <trans-unit id="Uniformity Correction" xml:space="preserve">
         <source>Uniformity Correction</source>
+        <target state="translated">Korrektion av enhetlighet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unknown" xml:space="preserve">
@@ -7197,14 +7389,17 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Unlimited" xml:space="preserve">
         <source>Unlimited</source>
+        <target state="translated">Obegränsad</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unlock Color Profile management for XDR displays" xml:space="preserve">
         <source>Unlock Color Profile management for XDR displays</source>
+        <target state="translated">Lås upp färgprofilhantering för XDR-skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unlock EDID write - I understand the risks involved" xml:space="preserve">
         <source>Unlock EDID write - I understand the risks involved</source>
+        <target state="translated">Lås upp EDID-skrivningen - Jag förstår riskerna</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unmute (DDC)" xml:space="preserve">
@@ -7217,14 +7412,17 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Unmute only (except for volume change induced unmute, when set volume as well)" xml:space="preserve">
         <source>Unmute only (except for volume change induced unmute, when set volume as well)</source>
+        <target state="translated">Endast unmute (förutom volymändring som inducerar unmute, när volymen också ställs in)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unpause Picture in Picture" xml:space="preserve">
         <source>Unpause Picture in Picture</source>
+        <target state="translated">Avpausa Bild i bild</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unpause Streaming" xml:space="preserve">
         <source>Unpause Streaming</source>
+        <target state="translated">Avpausa streaming</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unsafe mode" xml:space="preserve">
@@ -7239,6 +7437,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Unsupported by the display" xml:space="preserve">
         <source>Unsupported by the display</source>
+        <target state="translated">Stöds inte av skärmen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update frequency" xml:space="preserve">
@@ -7248,10 +7447,12 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Update resolution configuration protections" xml:space="preserve">
         <source>Update resolution configuration protections</source>
+        <target state="translated">Uppdatera skydd för konfiguration av upplösning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update virtual screens as well" xml:space="preserve">
         <source>Update virtual screens as well</source>
+        <target state="translated">Uppdatera även virtuella skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Updates" xml:space="preserve">
@@ -7261,14 +7462,17 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Use %@ as menu icon when the app is preventing display sleep" xml:space="preserve">
         <source>Use %@ as menu icon when the app is preventing display sleep</source>
+        <target state="translated">Använd %@ som menyikon när appen förhindrar att skärmen sover</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use Metal for image adjustments" xml:space="preserve">
         <source>Use Metal for image adjustments</source>
+        <target state="translated">Använd Metal för bildjusteringar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use an alternate icon when the app is configured to prevent display sleep." xml:space="preserve">
         <source>Use an alternate icon when the app is configured to prevent display sleep.</source>
+        <target state="translated">Använd en alternativ ikon när appen är konfigurerad för att förhindra att skärmen sover.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use custom resolution list" xml:space="preserve">
@@ -7278,6 +7482,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Use if you are sure your display supports color table adjustments but the app does not detect the capability." xml:space="preserve">
         <source>Use if you are sure your display supports color table adjustments but the app does not detect the capability.</source>
+        <target state="translated">Använd om du är säker på att din bildskärm stöder färgtabelljusteringar men appen inte känner av denna funktion.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use lighter app menu fonts and icons" xml:space="preserve">
@@ -7297,6 +7502,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Use mute/unmute methods" xml:space="preserve">
         <source>Use mute/unmute methods</source>
+        <target state="translated">Använd mute/unmute-metoder</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use zero to disable transition animation." xml:space="preserve">
@@ -7356,6 +7562,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Vertical density" xml:space="preserve">
         <source>Vertical density</source>
+        <target state="translated">Vertikal densitet</target>
         <note/>
       </trans-unit>
       <trans-unit id="Video Control Settings" xml:space="preserve">
@@ -7400,14 +7607,17 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Virtual screen follows display orientation" xml:space="preserve">
         <source>Virtual screen follows display orientation</source>
+        <target state="translated">Virtuell skärm följer skärmens orientering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screen group members can be sync sources." xml:space="preserve">
         <source>Virtual screen group members can be sync sources.</source>
+        <target state="translated">Medlemmar i en virtuell skärmgrupp kan vara synkroniseringskällor.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screen group members can be sync targets." xml:space="preserve">
         <source>Virtual screen group members can be sync targets.</source>
+        <target state="translated">Medlemmar i en virtuell skärmgrupp kan vara synkroniseringsmål.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screen name" xml:space="preserve">
@@ -7417,6 +7627,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Virtual screen tag ID" xml:space="preserve">
         <source>Virtual screen tag ID</source>
+        <target state="translated">ID för tagg för virtuell skärm</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screens" xml:space="preserve">
@@ -7426,26 +7637,32 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Virtual screens are not connected automatically, brightness and other adjustments are not restored and reverted to defaults, custom EDIDs are not automatically applied." xml:space="preserve">
         <source>Virtual screens are not connected automatically, brightness and other adjustments are not restored and reverted to defaults, custom EDIDs are not automatically applied.</source>
+        <target state="translated">Virtuella skärmar ansluts inte automatiskt, ljusstyrka och andra justeringar återställs inte och återgår inte till standardvärden, anpassade EDIDs tillämpas inte automatiskt.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screens associated with displays cannot be manually connected or disconnected!" xml:space="preserve">
         <source>Virtual screens associated with displays cannot be manually connected or disconnected!</source>
+        <target state="translated">Virtuella skärmar som är kopplade till skärmar kan inte anslutas eller kopplas bort manuellt!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screens associated with displays cannot be manually connected!" xml:space="preserve">
         <source>Virtual screens associated with displays cannot be manually connected!</source>
+        <target state="translated">Virtuella skärmar som är kopplade till skärmar kan inte anslutas manuellt!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screens associated with displays cannot be manually disconnected!" xml:space="preserve">
         <source>Virtual screens associated with displays cannot be manually disconnected!</source>
+        <target state="translated">Virtuella skärmar som är kopplade till skärmar kan inte kopplas bort manuellt!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screens by default work at 60Hz refresh rate but additional/different reported refresh rate modes can be created. Higher than 60Hz modes might not work in practice." xml:space="preserve">
         <source>Virtual screens by default work at 60Hz refresh rate but additional/different reported refresh rate modes can be created. Higher than 60Hz modes might not work in practice.</source>
+        <target state="translated">Virtuella skärmar arbetar som standard med 60Hz uppdateringsfrekvens men ytterligare/olika rapporterade uppdateringsfrekvenslägen kan skapas. Högre än 60Hz-lägen kanske inte fungerar i praktiken.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screens can be connected/disconnected on demand any time. Some settings appear only when the screen is connected. Changing some of the settings below require the screen to be reconnected when it is already connected." xml:space="preserve">
         <source>Virtual screens can be connected/disconnected on demand any time. Some settings appear only when the screen is connected. Changing some of the settings below require the screen to be reconnected when it is already connected.</source>
+        <target state="translated">Virtuella skärmar kan anslutas/kopplas bort på begäran när som helst. Vissa inställningar visas endast när skärmen är ansluten. Om du ändrar några av inställningarna nedan måste skärmen anslutas på nytt när den redan är ansluten.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Visible" xml:space="preserve">
@@ -7475,42 +7692,52 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Wait time between backlight state change operations" xml:space="preserve">
         <source>Wait time between backlight state change operations</source>
+        <target state="translated">Väntetid mellan åtgärder för att ändra bakgrundsbelysningens status</target>
         <note/>
       </trans-unit>
       <trans-unit id="Wait time for response on read" xml:space="preserve">
         <source>Wait time for response on read</source>
+        <target state="translated">Väntetid för svar vid läsning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Waiting for approval" xml:space="preserve">
         <source>Waiting for approval</source>
+        <target state="translated">Väntar på ett godkännande</target>
         <note/>
       </trans-unit>
       <trans-unit id="Wake delay" xml:space="preserve">
         <source>Wake delay</source>
+        <target state="translated">Fördröjning av väckning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Warp Mouse Cursor" xml:space="preserve">
         <source>Warp Mouse Cursor</source>
+        <target state="needs-translation"></target>
         <note/>
       </trans-unit>
       <trans-unit id="Warp mouse cursor from screen" xml:space="preserve">
         <source>Warp mouse cursor from screen</source>
+        <target state="needs-translation"></target>
         <note/>
       </trans-unit>
       <trans-unit id="Watch all group members for resolution changes" xml:space="preserve">
         <source>Watch all group members for resolution changes</source>
+        <target state="translated">Bevaka alla gruppmedlemmar för förändringar i upplösningen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Watch for resolution changes made outside of the app" xml:space="preserve">
         <source>Watch for resolution changes made outside of the app</source>
+        <target state="translated">Håll utkik efter upplösningsändringar som görs utanför appen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Watch virtual screens" xml:space="preserve">
         <source>Watch virtual screens</source>
+        <target state="translated">Bevaka virtuella skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Watched group member displays" xml:space="preserve">
         <source>Watched group member displays</source>
+        <target state="translated">Bevakade gruppmedlemmars skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Week of manufacture" xml:space="preserve">
@@ -7520,10 +7747,12 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="When Expanded" xml:space="preserve">
         <source>When Expanded</source>
+        <target state="translated">När den är expanderad</target>
         <note/>
       </trans-unit>
       <trans-unit id="When HDR upscaling is enabled while hardware brightness control is disabled, the app uses a continuous brightness scale between zero and the calibrated max upscale value. Due to this the neutral setting (100% brightness, when on-screen HDR content is unclipped) might not fall to an OSD chiclet boundary which makes it difficult to attain via the shortcut keys. To fix this an additional mid-chiclet step at 100% brightness is inserted." xml:space="preserve">
         <source>When HDR upscaling is enabled while hardware brightness control is disabled, the app uses a continuous brightness scale between zero and the calibrated max upscale value. Due to this the neutral setting (100% brightness, when on-screen HDR content is unclipped) might not fall to an OSD chiclet boundary which makes it difficult to attain via the shortcut keys. To fix this an additional mid-chiclet step at 100% brightness is inserted.</source>
+        <target state="translated">När HDR-uppskalning är aktiverad medan hårdvarans ljusstyrkereglering är inaktiverad använder appen en kontinuerlig ljusstyrkeskala mellan noll och det kalibrerade maxvärdet för uppskalning. På grund av detta kan det hända att den neutrala inställningen (100% ljusstyrka, när HDR-innehållet på skärmen är oklippt) inte faller till en OSD-chicletgräns, vilket gör det svårt att nå den via snabbknapparna. För att åtgärda detta har ett extra steg i mitten av chikleten vid 100% ljusstyrka lagts in.</target>
         <note/>
       </trans-unit>
       <trans-unit id="When Settings is Open" xml:space="preserve">
@@ -7533,26 +7762,32 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="When a watched display's resolution changes, the resolution of all suitable group members are updated as a consequence to match the UI scaling of the watched display." xml:space="preserve">
         <source>When a watched display's resolution changes, the resolution of all suitable group members are updated as a consequence to match the UI scaling of the watched display.</source>
+        <target state="translated">När upplösningen på en bevakad skärm ändras, uppdateras upplösningen för alla lämpliga gruppmedlemmar för att matcha UI-skalan på den bevakade skärmen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="When enabled, this display will not trigger the disconnection of the built-in display when it is set to disconnect upon the connection of an external display." xml:space="preserve">
         <source>When enabled, this display will not trigger the disconnection of the built-in display when it is set to disconnect upon the connection of an external display.</source>
+        <target state="translated">När den här skärmen är aktiverad kommer den inte att utlösa bortkoppling av den inbyggda skärmen när den är inställd på att kopplas bort vid anslutning av en extern skärm.</target>
         <note/>
       </trans-unit>
       <trans-unit id="When expanding a menu item, automatically hide other items under the given device / menu block. This helps keep the menu smaller." xml:space="preserve">
         <source>When expanding a menu item, automatically hide other items under the given device / menu block. This helps keep the menu smaller.</source>
+        <target state="translated">När du expanderar ett menyalternativ döljer du automatiskt andra alternativ under den givna enheten/menyblocket. Detta hjälper till att hålla menyn mindre.</target>
         <note/>
       </trans-unit>
       <trans-unit id="When the display is set as main, the lower limit is 30% for combined or software brightness, 10% for Apple hardware brightness, 0% for DDC hardware brightness." xml:space="preserve">
         <source>When the display is set as main, the lower limit is 30% for combined or software brightness, 10% for Apple hardware brightness, 0% for DDC hardware brightness.</source>
+        <target state="translated">När skärmen är inställd som huvudskärmen är den nedre gränsen 30% eller kombinerad ljusstyrka eller mjukvaruljusstyrka, 10% för Apple-hårdvaruljusstyrka, 0% för DDC-hårdvaruljusstyrka.</target>
         <note/>
       </trans-unit>
       <trans-unit id="When this is enabled, syncing won't affect displays in HDR mode or XDR displays set to a reference XDR preset." xml:space="preserve">
         <source>When this is enabled, syncing won't affect displays in HDR mode or XDR displays set to a reference XDR preset.</source>
+        <target state="translated">När detta är aktiverat påverkar synkroniseringen inte skärmar i HDR-läge eller XDR-skärmar som är inställda på en referens XDR-förinställning.</target>
         <note/>
       </trans-unit>
       <trans-unit id="When this is enabled, the app will use DDC brightness for combined brightness control instead of the SDR peak brightness adjustment control (HDR brightness control) provided by macOS. You can still adjust the SDR peak brightness in Control Center - these adjustments will influence the upscaling (if available) headroom provided by the app. Not all displays support DDC brightness control in HDR mode." xml:space="preserve">
         <source>When this is enabled, the app will use DDC brightness for combined brightness control instead of the SDR peak brightness adjustment control (HDR brightness control) provided by macOS. You can still adjust the SDR peak brightness in Control Center - these adjustments will influence the upscaling (if available) headroom provided by the app. Not all displays support DDC brightness control in HDR mode.</source>
+        <target state="translated">När detta är aktiverat kommer appen att använda DDC-ljusstyrka för kombinerad ljusstyrkereglering istället för SDR-toppljusstyrkeregleringen (HDR-ljusstyrkereglering) som tillhandahålls av macOS. Du kan fortfarande justera SDR-toppljusstyrkan i Kontrollcenter - dessa justeringar kommer att påverka uppskalningsutrymmet (om tillgängligt) som tillhandahålls av appen. Inte alla skärmar stöder DDC-reglering av ljusstyrka i HDR-läge.</target>
         <note/>
       </trans-unit>
       <trans-unit id="When volume reaches 0%…" xml:space="preserve">
@@ -7587,34 +7822,42 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="With this enabled Sidecar displays disconnected using the app will remain in the display list for easy reconnect. Sidecar displays disconnected outside of the app or before app startup are not listed." xml:space="preserve">
         <source>With this enabled Sidecar displays disconnected using the app will remain in the display list for easy reconnect. Sidecar displays disconnected outside of the app or before app startup are not listed.</source>
+        <target state="translated">Med detta aktiverat kommer Sidecar-skärmar som kopplats bort med appen att finnas kvar i skärmlistan för enkel återanslutning. Sidecar-skärmar som kopplas bort utanför appen eller innan appen startas visas inte i listan.</target>
         <note/>
       </trans-unit>
       <trans-unit id="With this enabled scale matching will affect displays that have resolution configuration protection enabled. The protected resolution will be updated as well." xml:space="preserve">
         <source>With this enabled scale matching will affect displays that have resolution configuration protection enabled. The protected resolution will be updated as well.</source>
+        <target state="translated">När detta är aktiverat kommer skalmatchning att påverka skärmar som har ett aktiverat skydd för upplösningskonfiguration. Den skyddade upplösningen kommer också att uppdateras.</target>
         <note/>
       </trans-unit>
       <trans-unit id="With this enabled the app will perform the scale matching operation when the resolution of a watched display was changed by the system or by some other app. If the resolution of multiple watched displays are changed (for example, because of a layout change), no action is taken to avoid ambiguity." xml:space="preserve">
         <source>With this enabled the app will perform the scale matching operation when the resolution of a watched display was changed by the system or by some other app. If the resolution of multiple watched displays are changed (for example, because of a layout change), no action is taken to avoid ambiguity.</source>
+        <target state="translated">Om detta är aktiverat kommer appen att utföra skalmatchning när upplösningen på en visad skärm har ändrats av systemet eller av någon annan app. Om upplösningen för flera övervakade skärmar ändras (t.ex. på grund av en layoutändring) vidtas ingen åtgärd för att undvika tvetydighet.</target>
         <note/>
       </trans-unit>
       <trans-unit id="With this option selected, the app will leave native brightness keys under macOS control if only Apple displays are connected with no additional software brightness control features enabled. In this case however various settings (like &quot;Make fine scale default&quot; or control &quot;All suitable screens&quot; simultaneously) that modify the default behavior of the brightness keys will not apply." xml:space="preserve">
         <source>With this option selected, the app will leave native brightness keys under macOS control if only Apple displays are connected with no additional software brightness control features enabled. In this case however various settings (like "Make fine scale default" or control "All suitable screens" simultaneously) that modify the default behavior of the brightness keys will not apply.</source>
+        <target state="translated">Om det här alternativet är valt kommer appen att lämna de inbyggda ljusstyrketangenterna under macOS-kontroll om endast Apple-skärmar är anslutna utan att några ytterligare funktioner för ljusstyrka i programvaran är aktiverade. I det här fallet kommer dock olika inställningar (som "Gör finskalig standard" eller kontrollera "Alla lämpliga skärmar" samtidigt) som ändrar standardbeteendet för ljusstyrketangenterna inte att gälla.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Without Screen Recording permissions this feature will not work!" xml:space="preserve">
         <source>Without Screen Recording permissions this feature will not work!</source>
+        <target state="translated">Utan tillstånd för skärminspelning fungerar inte den här funktionen!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Works only when an associated virtual screen is not set to follow the associated display's orientation" xml:space="preserve">
         <source>Works only when an associated virtual screen is not set to follow the associated display's orientation</source>
+        <target state="translated">Fungerar endast när en associerad virtuell skärm inte är inställd på att följa den associerade skärmens orientering</target>
         <note/>
       </trans-unit>
       <trans-unit id="Works with combined brightness and DDC hardware control. Most displays do not support turning the backlight off or back on via DDC." xml:space="preserve">
         <source>Works with combined brightness and DDC hardware control. Most displays do not support turning the backlight off or back on via DDC.</source>
+        <target state="translated">Fungerar med kombinerad ljusstyrka och DDC-hårdvarustyrning. De flesta skärmar har inte stöd för att stänga av eller sätta på bakgrundsbelysningen via DDC.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Would you like to connect all displays before turning off connection management?" xml:space="preserve">
         <source>Would you like to connect all displays before turning off connection management?</source>
+        <target state="translated">Vill du ansluta alla skärmar innan du stänger av anslutningshanteringen?</target>
         <note/>
       </trans-unit>
       <trans-unit id="Write EDID to Device" xml:space="preserve">
@@ -7644,18 +7887,22 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="XDR brightness scale maximum" xml:space="preserve">
         <source>XDR brightness scale maximum</source>
+        <target state="translated">XDR-ljusstyrka maximal skala</target>
         <note/>
       </trans-unit>
       <trans-unit id="XDR brightness scale minimum" xml:space="preserve">
         <source>XDR brightness scale minimum</source>
+        <target state="translated">XDR ljusstyrka minimal skala</target>
         <note/>
       </trans-unit>
       <trans-unit id="XDR displays use XDR Presets to manage display color reproduction, gamma, white point settings. Color Profiles can still be used to influence rendering to a limited extent however XDR presets work best when the factory default Color Profile is configured for the XDR display." xml:space="preserve">
         <source>XDR displays use XDR Presets to manage display color reproduction, gamma, white point settings. Color Profiles can still be used to influence rendering to a limited extent however XDR presets work best when the factory default Color Profile is configured for the XDR display.</source>
+        <target state="translated">XDR-skärmar använder XDR-förinställningar för att hantera skärmens färgåtergivning, gamma och vitpunktsinställningar. Färgprofiler kan fortfarande användas för att påverka återgivningen i begränsad omfattning, men XDR-förinställningarna fungerar bäst när den fabriksinställda färgprofilen är konfigurerad för XDR-skärmen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="XDR/HDR upscaling compatible" xml:space="preserve">
         <source>XDR/HDR upscaling compatible</source>
+        <target state="translated">Kompatibel med XDR/HDR-uppskalning</target>
         <note/>
       </trans-unit>
       <trans-unit id="YCbCr" xml:space="preserve">
@@ -7684,40 +7931,51 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="You can detect and configure DDC input select support for this display under &quot;DDC Features…&quot;." xml:space="preserve">
         <source>You can detect and configure DDC input select support for this display under "DDC Features…".</source>
+        <target state="translated">Du kan upptäcka och konfigurera stöd för DDC-ingångsväljaren för denna skärm under "DDC-funktioner ...".</target>
         <note/>
       </trans-unit>
       <trans-unit id="You can detect and configure DDC volume and mute control support for this display under &quot;DDC Features…&quot;." xml:space="preserve">
         <source>You can detect and configure DDC volume and mute control support for this display under "DDC Features…".</source>
+        <target state="translated">Under "DDC-funktioner..." kan du upptäcka och konfigurera stöd för DDC-volym och tyst-styrning för denna skärm.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You can download the SF Symbols app from [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) to find the right SF Symbol icon string (try: `face.smiling`)." xml:space="preserve">
         <source>You can download the SF Symbols app from [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) to find the right SF Symbol icon string (try: `face.smiling`).</source>
+        <target state="translated">Du kan hämta ner SF Symbols-appen från [developer.apple.com/sf-symbols] (https://developer.apple.com/sf-symbols) för att hitta rätt SF Symbol-ikonsträng (prova: `face.smiling`).</target>
         <note/>
       </trans-unit>
       <trans-unit id="You can override the default meaning of the on/off switch under Settings > Displays." xml:space="preserve">
         <source>You can override the default meaning of the on/off switch under Settings &gt; Displays.</source>
+        <target state="translated">Du kan åsidosätta den förvalda betydelsen av på/av-knappen under Inställningar &gt; Skärmar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You can retrieve, modify and load/apply EDID data to alter display capabilities perceived by your Mac." xml:space="preserve">
         <source>You can retrieve, modify and load/apply EDID data to alter display capabilities perceived by your Mac.</source>
+        <target state="translated">Du kan hämta, ändra och läsa/tillämpa EDID-data för att ändra de skärmegenskaper som din Mac uppfattar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You may also use ⌘ Command + Click to warp to the source screen. Define a shortcut to warp back under Settings > Keyboard!" xml:space="preserve">
         <source>You may also use ⌘ Command + Click to warp to the source screen. Define a shortcut to warp back under Settings &gt; Keyboard!</source>
+        <target state="translated">Du kan också använda ⌘ Command + klick för att växla till källskärmen. Definiera en genväg för att warpa tillbaka under Inställningar &gt; Tangentbord!</target>
         <note/>
       </trans-unit>
       <trans-unit id="You might want to hide the macOS volume OSD if the device has audio controls managed by the app. Useful for displays which has their own volume OSD that cannot be disabled." xml:space="preserve">
         <source>You might want to hide the macOS volume OSD if the device has audio controls managed by the app. Useful for displays which has their own volume OSD that cannot be disabled.</source>
+        <target state="translated">Du kanske vill dölja macOS volym-OSD om enheten har ljudkontroller som hanteras av appen. Användbart för skärmar som har sitt eget volym OSD som inte kan inaktiveras.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You reached the maximum number of activations for this license key!&#10;&#10;A previous activation was automatically removed to make room for this new one." xml:space="preserve">
         <source>You reached the maximum number of activations for this license key!
 
 A previous activation was automatically removed to make room for this new one.</source>
+        <target state="translated">Du har nått det maximala antalet aktiveringar för denna licensnyckel!
+
+En tidigare aktivering togs automatiskt bort för att ge plats åt den nya.</target>
         <note/>
       </trans-unit>
       <trans-unit id="You should exit the other app or disable 'Allow color table adjustments' under Settings > Displays to fix this!" xml:space="preserve">
         <source>You should exit the other app or disable 'Allow color table adjustments' under Settings &gt; Displays to fix this!</source>
+        <target state="translated">Du bör avsluta den andra appen eller inaktivera "Tillåt färgtabelljusteringar" under Inställningar &gt; Skärmar för att åtgärda detta!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Zoom" xml:space="preserve">
@@ -7802,6 +8060,7 @@ A previous activation was automatically removed to make room for this new one.</
       </trans-unit>
       <trans-unit id="macOS can mute digital streams natively - if mute does not work properly with your display, you should enable this feature." xml:space="preserve">
         <source>macOS can mute digital streams natively - if mute does not work properly with your display, you should enable this feature.</source>
+        <target state="translated">macOS kan stänga av ljudet för digitala strömmar - om ljudet inte fungerar korrekt med din skärm bör du aktivera den här funktionen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="milliseconds" xml:space="preserve">
