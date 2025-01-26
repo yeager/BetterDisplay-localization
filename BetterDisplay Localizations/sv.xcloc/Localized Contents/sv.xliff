@@ -1929,7 +1929,7 @@ Att ange läslängd är valfritt - lämna fältet tomt för automatisk detekteri
       </trans-unit>
       <trans-unit id="Connect all disassociated virtual screens" xml:space="preserve">
         <source>Connect all disassociated virtual screens</source>
-        <target state="translated">Anslut alla frånkopplade virtuella skärmar</target>
+        <target state="translated">Anslut alla icke-associerade virtuella skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Connect all displays" xml:space="preserve">
@@ -2661,10 +2661,12 @@ Att ange läslängd är valfritt - lämna fältet tomt för automatisk detekteri
       </trans-unit>
       <trans-unit id="Disassociate" xml:space="preserve">
         <source>Disassociate</source>
+        <target state="translated">Icke-associera</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disassociate All" xml:space="preserve">
         <source>Disassociate All</source>
+        <target state="translated">Icke-associera alla</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discard" xml:space="preserve">
@@ -2689,6 +2691,7 @@ Att ange läslängd är valfritt - lämna fältet tomt för automatisk detekteri
       </trans-unit>
       <trans-unit id="Discard Display Group" xml:space="preserve">
         <source>Discard Display Group</source>
+        <target state="translated">Förkasta skärmgrupp</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discard Virtual Screen" xml:space="preserve">
@@ -2738,6 +2741,7 @@ Att ange läslängd är valfritt - lämna fältet tomt för automatisk detekteri
       </trans-unit>
       <trans-unit id="Disconnect all disassociated virtual screens" xml:space="preserve">
         <source>Disconnect all disassociated virtual screens</source>
+        <target state="translated">Koppla bort alla icke-associerade virtuella skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnect all displays except main" xml:space="preserve">
@@ -2752,6 +2756,7 @@ Att ange läslängd är valfritt - lämna fältet tomt för automatisk detekteri
       </trans-unit>
       <trans-unit id="Disconnect built-in display when an external display is connected" xml:space="preserve">
         <source>Disconnect built-in display when an external display is connected</source>
+        <target state="translated">Koppla bort den inbyggda skärmen när en extern skärm är ansluten</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disconnect display" xml:space="preserve">
@@ -2803,6 +2808,7 @@ Att ange läslängd är valfritt - lämna fältet tomt för automatisk detekteri
       </trans-unit>
       <trans-unit id="Disconnecting virtual screens" xml:space="preserve">
         <source>Disconnecting virtual screens</source>
+        <target state="translated">Bortkoppling av virtuella skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
@@ -2816,6 +2822,7 @@ Att ange läslängd är valfritt - lämna fältet tomt för automatisk detekteri
       </trans-unit>
       <trans-unit id="Dispatch OSD notifications" xml:space="preserve">
         <source>Dispatch OSD notifications</source>
+        <target state="needs-translation"></target>
         <note/>
       </trans-unit>
       <trans-unit id="Display" xml:space="preserve">
@@ -2880,6 +2887,7 @@ Att ange läslängd är valfritt - lämna fältet tomt för automatisk detekteri
       </trans-unit>
       <trans-unit id="Display Mode Menu" xml:space="preserve">
         <source>Display Mode Menu</source>
+        <target state="translated">Meny för skärmläge</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display Notch" xml:space="preserve">
@@ -2888,54 +2896,67 @@ Att ange läslängd är valfritt - lämna fältet tomt för automatisk detekteri
       </trans-unit>
       <trans-unit id="Display group is configured to be always active regardless of the presence of group members." xml:space="preserve">
         <source>Display group is configured to be always active regardless of the presence of group members.</source>
+        <target state="translated">Skärmgruppen är konfigurerad att alltid vara aktiv oavsett om det finns några gruppmedlemmar eller inte.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display group is currently active" xml:space="preserve">
         <source>Display group is currently active</source>
+        <target state="translated">Skärmgruppen är för närvarande aktiv</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display group is inactive" xml:space="preserve">
         <source>Display group is inactive</source>
+        <target state="translated">Skärmgruppen är inaktiv</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display group is not enabled." xml:space="preserve">
         <source>Display group is not enabled.</source>
+        <target state="translated">Skärmgruppen är inte aktiverad.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display group name" xml:space="preserve">
         <source>Display group name</source>
+        <target state="translated">Skärmgruppens namn</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display group settings will be available at the created group's settings pane." xml:space="preserve">
         <source>Display group settings will be available at the created group's settings pane.</source>
+        <target state="translated">Inställningarna för skärmgruppen kommer att finnas tillgängliga i den skapade gruppens inställningsfönster.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display groups" xml:space="preserve">
         <source>Display groups</source>
+        <target state="translated">Skärmgrupper</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display groups are sorted by activation priority (higher priority first)." xml:space="preserve">
         <source>Display groups are sorted by activation priority (higher priority first).</source>
+        <target state="translated">Skärmgrupperna är sorterade efter aktiveringsprioritet (högre prioritet först).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display groups provide a way to let various operations affect multiple displays. Features based on display groups include brightness and other image adjustment synchronization, UI scale matching, display layout management and more." xml:space="preserve">
         <source>Display groups provide a way to let various operations affect multiple displays. Features based on display groups include brightness and other image adjustment synchronization, UI scale matching, display layout management and more.</source>
+        <target state="translated">Skärmgrupper är ett sätt att låta olika åtgärder påverka flera skärmar. Funktioner som baseras på skärmgrupper inkluderar synkronisering av ljusstyrka och andra bildjusteringar, matchning av användargränssnittets skala, hantering av skärmlayout och mycket mer.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display identification method" xml:space="preserve">
         <source>Display identification method</source>
+        <target state="translated">Metod för identifiering av skärm</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display menu on/off switch behavior" xml:space="preserve">
         <source>Display menu on/off switch behavior</source>
+        <target state="translated">På/av-omkopplare för skärmmeny</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display menu options" xml:space="preserve">
         <source>Display menu options</source>
+        <target state="translated">Visa menyalternativ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display mode changed for %@." xml:space="preserve">
         <source>Display mode changed for %@.</source>
+        <target state="translated">Skärmläge ändrat för %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display mode submenu settings" xml:space="preserve">
@@ -2960,6 +2981,7 @@ Att ange läslängd är valfritt - lämna fältet tomt för automatisk detekteri
       </trans-unit>
       <trans-unit id="Display the brightness level in nits on the brightness OSD icon for native XDR upscaling" xml:space="preserve">
         <source>Display the brightness level in nits on the brightness OSD icon for native XDR upscaling</source>
+        <target state="translated">Visa ljusstyrkenivån i nits på OSD-ikonen för ljusstyrka för inbyggd XDR-uppskalning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Display to match" xml:space="preserve">
@@ -3178,6 +3200,7 @@ Processen fungerar inte för den inbyggda bildskärmen (omstart krävs). Åtgär
       </trans-unit>
       <trans-unit id="Enable CLI access and notification based integration" xml:space="preserve">
         <source>Enable CLI access and notification based integration</source>
+        <target state="translated">Aktivera CLI-åtkomst och meddelandebaserad integration</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable Cropping" xml:space="preserve">
@@ -3287,10 +3310,12 @@ Processen fungerar inte för den inbyggda bildskärmen (omstart krävs). Åtgär
       </trans-unit>
       <trans-unit id="Enable software HDR brightness upscaling (if available)" xml:space="preserve">
         <source>Enable software HDR brightness upscaling (if available)</source>
+        <target state="translated">Aktivera uppskalning av ljusstyrka för HDR-programvara (om tillgängligt)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable software XDR brightness upscaling (if available)" xml:space="preserve">
         <source>Enable software XDR brightness upscaling (if available)</source>
+        <target state="translated">Aktivera uppskalning av ljusstyrka med XDR-programvara (om tillgängligt)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enable software-based video adjustments" xml:space="preserve">
@@ -3300,6 +3325,7 @@ Processen fungerar inte för den inbyggda bildskärmen (omstart krävs). Åtgär
       </trans-unit>
       <trans-unit id="Enable synchronization for this display group" xml:space="preserve">
         <source>Enable synchronization for this display group</source>
+        <target state="translated">Aktivera synkronisering för den här skärmgruppen</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabled" xml:space="preserve">
@@ -3309,14 +3335,17 @@ Processen fungerar inte för den inbyggda bildskärmen (omstart krävs). Åtgär
       </trans-unit>
       <trans-unit id="Enables low-level resolution change for mirror targets. Allows Refresh Rate and Color Depth submenus as well." xml:space="preserve">
         <source>Enables low-level resolution change for mirror targets. Allows Refresh Rate and Color Depth submenus as well.</source>
+        <target state="translated">Möjliggör ändring av upplösning på låg nivå för spegelmål. Tillåter även undermenyerna Uppdateringsfrekvens och Färgdjup.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enables native XDR brightness upscaling and extended dimming for this display." xml:space="preserve">
         <source>Enables native XDR brightness upscaling and extended dimming for this display.</source>
+        <target state="translated">Aktiverar inbyggd XDR-uppskalning av ljusstyrka och utökad dimning för den här skärmen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enables resolutions up to 16Kx16K (8Kx8K HiDPI) for virtual screens and flexible scaling. Using 8K+ virtual screens might cause stability issues. Flexible scaling needs to be reapplied. Maximum native resolutions have limitations depending on specific macOS version and GPU type." xml:space="preserve">
         <source>Enables resolutions up to 16Kx16K (8Kx8K HiDPI) for virtual screens and flexible scaling. Using 8K+ virtual screens might cause stability issues. Flexible scaling needs to be reapplied. Maximum native resolutions have limitations depending on specific macOS version and GPU type.</source>
+        <target state="translated">Möjliggör upplösningar på upp till 16Kx16K (8Kx8K HiDPI) för virtuella skärmar och flexibel skalning. Användning av virtuella skärmar på 8K+ kan orsaka stabilitetsproblem. Flexibel skalning måste tillämpas på nytt. Maximala inbyggda upplösningar har begränsningar beroende på specifik macOS-version och GPU-typ.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Enabling this option removes the menu bar icon when only this and other similarly marked displays are present. Use this setting when you don't need any of the app's features for this display and want to free up menu bar space." xml:space="preserve">
@@ -4179,30 +4208,37 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Let UI size be matched among members of the display group when the resolution of a watched group member display changes. This feature works best on displays with flexible scaling enabled." xml:space="preserve">
         <source>Let UI size be matched among members of the display group when the resolution of a watched group member display changes. This feature works best on displays with flexible scaling enabled.</source>
+        <target state="translated">Låt storleken på användargränssnittet matchas mellan medlemmarna i skärmgruppen när upplösningen på en bevakad gruppmedlems skärm ändras. Den här funktionen fungerar bäst på skärmar med flexibel skalning aktiverad.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Let the Tools menu behave like the display menus." xml:space="preserve">
         <source>Let the Tools menu behave like the display menus.</source>
+        <target state="translated">Låt menyn Verktyg bete sig som skärmmenyerna.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Let the app control display hardware luminance (backlight for backlit displays) if this DDC feature is enabled." xml:space="preserve">
         <source>Let the app control display hardware luminance (backlight for backlit displays) if this DDC feature is enabled.</source>
+        <target state="translated">Låt appen styra skärmens hårdvaruluminans (bakgrundsbelysning för bakgrundsbelysta skärmar) om denna DDC-funktion är aktiverad.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Let the app control screen brightness using Apple's display control service." xml:space="preserve">
         <source>Let the app control screen brightness using Apple's display control service.</source>
+        <target state="translated">Låt appen styra skärmens ljusstyrka med hjälp av Apples skärmkontrolltjänst.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Let the app handle native audio (volume, mute) keys on your Apple keyboard. This lets you control the volume of external displays with your Apple keyboard." xml:space="preserve">
         <source>Let the app handle native audio (volume, mute) keys on your Apple keyboard. This lets you control the volume of external displays with your Apple keyboard.</source>
+        <target state="translated">Låt appen hantera inbyggda ljudknappar (volym, ljud av) på ditt Apple-tangentbord. Detta gör att du kan styra volymen på externa skärmar med ditt Apple-tangentbord.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Let the app handle native brightness keys on your Apple keyboard. This lets you control the brightness of external displays with your Apple keyboard and also allows XDR upscaling keyboard control and extra dimming for native Apple displays." xml:space="preserve">
         <source>Let the app handle native brightness keys on your Apple keyboard. This lets you control the brightness of external displays with your Apple keyboard and also allows XDR upscaling keyboard control and extra dimming for native Apple displays.</source>
+        <target state="translated">Låt appen hantera de inbyggda ljusstyrketangenterna på ditt Apple-tangentbord. På så sätt kan du styra ljusstyrkan på externa skärmar med ditt Apple-tangentbord och även styra XDR-uppskalning med tangentbordet och extra dimning för inbyggda Apple-skärmar.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Let the virtual screen auto-connect when the associated display is connected. Enabling this will cause the virtual screen to be connected right after creation!" xml:space="preserve">
         <source>Let the virtual screen auto-connect when the associated display is connected. Enabling this will cause the virtual screen to be connected right after creation!</source>
+        <target state="translated">Låt den virtuella skärmen anslutas automatiskt när den tillhörande skärmen är ansluten. Om du aktiverar detta kommer den virtuella skärmen att anslutas direkt efter att den skapats!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Let the virtual screen follow the orientation of the associated display when it is rotated." xml:space="preserve">
@@ -4212,6 +4248,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Let various adjustments like display brightness, contrast, etc. synchronize among members of the display group based on the configured rules." xml:space="preserve">
         <source>Let various adjustments like display brightness, contrast, etc. synchronize among members of the display group based on the configured rules.</source>
+        <target state="translated">Låt olika justeringar som ljusstyrka, kontrast etc. synkroniseras mellan medlemmarna i skärmgruppen baserat på de konfigurerade reglerna.</target>
         <note/>
       </trans-unit>
       <trans-unit id="License management allows Pro features, purchasing, license activation and free trial. If you disable this, you can only use free features. License management requires communication with the payment and licensing provider Paddle ([paddle.com/privacy](https://paddle.com/privacy))." xml:space="preserve">
@@ -4236,26 +4273,32 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Limit resolution range" xml:space="preserve">
         <source>Limit resolution range</source>
+        <target state="translated">Begränsa upplösningsintervall</target>
         <note/>
       </trans-unit>
       <trans-unit id="Limit resolution slider and keyboard shortcut range" xml:space="preserve">
         <source>Limit resolution slider and keyboard shortcut range</source>
+        <target state="translated">Begränsa upplösningsreglaget och tangentbordsgenvägarnas omfång</target>
         <note/>
       </trans-unit>
       <trans-unit id="Limited Range" xml:space="preserve">
         <source>Limited Range</source>
+        <target state="translated">Begränsat omfång</target>
         <note/>
       </trans-unit>
       <trans-unit id="Limits the resolution range based on the aspect ratio values and the multiplier." xml:space="preserve">
         <source>Limits the resolution range based on the aspect ratio values and the multiplier.</source>
+        <target state="translated">Begränsar upplösningsområdet baserat på värdena för bildförhållande och multiplikatorn.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Liquid Retina with Notch" xml:space="preserve">
         <source>Liquid Retina with Notch</source>
+        <target state="translated">Liquid Retina med notch</target>
         <note/>
       </trans-unit>
       <trans-unit id="Listen to native audio keys" xml:space="preserve">
         <source>Listen to native audio keys</source>
+        <target state="translated">Lyssna på inbyggda ljudtangenter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Listening HTTP port" xml:space="preserve">
@@ -4285,6 +4328,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Load an EDID binary image exported by %@ (or other tools). You can also use an EDID binary created/modified by an EDID editor like AW EDID Editor. If you have a Base64 text representation of an EDID image, use the 'Paste Base64' button to load it." xml:space="preserve">
         <source>Load an EDID binary image exported by %@ (or other tools). You can also use an EDID binary created/modified by an EDID editor like AW EDID Editor. If you have a Base64 text representation of an EDID image, use the 'Paste Base64' button to load it.</source>
+        <target state="translated">Ladda en binär EDID-bild som exporterats av %@ (eller andra verktyg). Du kan också använda en binär EDID-bild som skapats/modifierats av en EDID-redigerare som AW EDID Editor. Om du har en Base64-textrepresentation av en EDID-bild kan du använda knappen "Klistra in Base64" för att läsa in den.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Loaded EDID Data" xml:space="preserve">
@@ -4309,10 +4353,12 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Long press the mouse button to set and cycle through favorites in the slider." xml:space="preserve">
         <source>Long press the mouse button to set and cycle through favorites in the slider.</source>
+        <target state="translated">Tryck länge på musknappen för att ställa in och bläddra igenom favoriter i skjutreglaget.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lower brightness for all displays by some amount." xml:space="preserve">
         <source>Lower brightness for all displays by some amount.</source>
+        <target state="translated">Sänk ljusstyrkan för alla skärmar med en viss mängd.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Main Status" xml:space="preserve">
@@ -4322,18 +4368,22 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Main status changed for %@." xml:space="preserve">
         <source>Main status changed for %@.</source>
+        <target state="translated">Huvudstatus ändrad för %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Make Tools menu collapsible instead of closable" xml:space="preserve">
         <source>Make Tools menu collapsible instead of closable</source>
+        <target state="translated">Gör verktygsmenyn infällbar istället för stängbar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Make fine scale default for brightness keys" xml:space="preserve">
         <source>Make fine scale default for brightness keys</source>
+        <target state="translated">Gör fin skala till standard för ljusstyrketangenter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Make fine scale default for volume keys" xml:space="preserve">
         <source>Make fine scale default for volume keys</source>
+        <target state="translated">Gör fin skala till standard för volymknappar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Manage Activations" xml:space="preserve">
@@ -5411,6 +5461,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Remove Protection…" xml:space="preserve">
         <source>Remove Protection…</source>
+        <target state="translated">Ta bort skyddet…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove Synchronization…" xml:space="preserve">
@@ -5430,6 +5481,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Remove layout protection for %@%@" xml:space="preserve">
         <source>Remove layout protection for %1$@%2$@</source>
+        <target state="translated">Ta bort layoutskyddet för %1$@%2$@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Remove synchronization for %@" xml:space="preserve">
@@ -5441,6 +5493,9 @@ Not all displays support DDC power operations. DDC power operations can cause (e
         <source>Removing all other activations will impact all installations associated with this license except this one. Removing this activation will affect only this installation.
 
 Removing all activations will give you a blank slate.</source>
+        <target state="translated">Om du tar bort alla andra aktiveringar påverkas alla installationer som är kopplade till den här licensen utom den här. Om du tar bort den här aktiveringen påverkas endast den här installationen.
+
+Om du tar bort alla aktiveringar får du ett oskrivet blad.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Render all other app menu icons in hierarchical style (with grayscales)" xml:space="preserve">
@@ -5455,6 +5510,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Reported actual refresh rate:" xml:space="preserve">
         <source>Reported actual refresh rate:</source>
+        <target state="translated">Rapporterad faktisk uppdateringsfrekvens:</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reported diagonal size" xml:space="preserve">
@@ -5464,6 +5520,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Reported nominal refresh rate:" xml:space="preserve">
         <source>Reported nominal refresh rate:</source>
+        <target state="translated">Rapporterad nominell uppdateringsfrekvens:</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
@@ -5513,6 +5570,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Reset Factory EDID (Unapply)" xml:space="preserve">
         <source>Reset Factory EDID (Unapply)</source>
+        <target state="translated">Återställ fabriks-EDID (Unapply)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reset Menu Layout…" xml:space="preserve">
@@ -5522,6 +5580,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Reset VMM7100 HDMI Adapter" xml:space="preserve">
         <source>Reset VMM7100 HDMI Adapter</source>
+        <target state="translated">Återställ VMM7100 HDMI-adapter</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reset Values" xml:space="preserve">
@@ -5531,10 +5590,12 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Reset Warning Dismissals" xml:space="preserve">
         <source>Reset Warning Dismissals</source>
+        <target state="translated">Återställ varningar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reset all VMM7100 devices before wake or unlock reinitialization for this display" xml:space="preserve">
         <source>Reset all VMM7100 devices before wake or unlock reinitialization for this display</source>
+        <target state="translated">Återställ alla VMM7100-enheter före väckning eller lås upp ominitialisering för denna skärm</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reset colors on neutral settings for HDR capable screens" xml:space="preserve">
@@ -5569,6 +5630,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Resolution entry accepted" xml:space="preserve">
         <source>Resolution entry accepted</source>
+        <target state="translated">Upplösning accepterad</target>
         <note/>
       </trans-unit>
       <trans-unit id="Resolution step multiplier" xml:space="preserve">
@@ -5578,6 +5640,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Resolution steps by which the provided virtual screen aspect ratio width and height values are multiplied for creating resolution options. Smaller multiplier means more granular resolution scale." xml:space="preserve">
         <source>Resolution steps by which the provided virtual screen aspect ratio width and height values are multiplied for creating resolution options. Smaller multiplier means more granular resolution scale.</source>
+        <target state="translated">Upplösningssteg med vilka de angivna värdena för bredd och höjd för den virtuella skärmens bildförhållande multipliceras för att skapa upplösningsalternativ. Mindre multiplikator innebär en mer detaljerad upplösningsskala.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Resolution unavailable" xml:space="preserve">
@@ -5607,30 +5670,37 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Restore Factory EDID" xml:space="preserve">
         <source>Restore Factory EDID</source>
+        <target state="translated">Återställ fabriks-EDID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore combined brightness and software adjustments" xml:space="preserve">
         <source>Restore combined brightness and software adjustments</source>
+        <target state="translated">Återställ kombinerade ljusstyrke- och programvarujusteringar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore display layout after connecting a virtual screen" xml:space="preserve">
         <source>Restore display layout after connecting a virtual screen</source>
+        <target state="translated">Återställ skärmlayouten efter anslutning av en virtuell skärm</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore display layout after connecting virtual screen for the first time or when mirroring is engaged via the app menu." xml:space="preserve">
         <source>Restore display layout after connecting virtual screen for the first time or when mirroring is engaged via the app menu.</source>
+        <target state="translated">Återställ skärmens layout när du ansluter en virtuell skärm för första gången eller när spegling aktiveras via appmenyn.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore excessive dimming for Apple displays" xml:space="preserve">
         <source>Restore excessive dimming for Apple displays</source>
+        <target state="translated">Återställ överdriven dimning för Apple-skärmar</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore factory EDID on quit" xml:space="preserve">
         <source>Restore factory EDID on quit</source>
+        <target state="translated">Återställ fabriks-EDID vid avslutning</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore non-brightness adjustments only" xml:space="preserve">
         <source>Restore non-brightness adjustments only</source>
+        <target state="translated">Återställ endast justeringar som inte gäller ljusstyrka</target>
         <note/>
       </trans-unit>
       <trans-unit id="Resume Stream on Connect" xml:space="preserve">
@@ -5675,6 +5745,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Rosetta emulation layer detected" xml:space="preserve">
         <source>Rosetta emulation layer detected</source>
+        <target state="translated">Rosetta emuleringslager upptäckt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rotate" xml:space="preserve">
@@ -5714,6 +5785,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Rotate the display (flip width and height)." xml:space="preserve">
         <source>Rotate the display (flip width and height).</source>
+        <target state="translated">Rotera skärmen (vänd på bredd och höjd).</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rotated Orientation" xml:space="preserve">
@@ -5743,18 +5815,22 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Rotation changed for %@." xml:space="preserve">
         <source>Rotation changed for %@.</source>
+        <target state="translated">Rotation ändrad för %@.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rotation shortcut keys toggle the screen between rotated and non-rotated modes." xml:space="preserve">
         <source>Rotation shortcut keys toggle the screen between rotated and non-rotated modes.</source>
+        <target state="translated">Snabbknappar för rotation växlar skärmen mellan roterat och icke-roterat läge.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Row bytes" xml:space="preserve">
         <source>Row bytes</source>
+        <target state="translated">Byte på rad</target>
         <note/>
       </trans-unit>
       <trans-unit id="SDR peak brightness adjustment is available in macOS Sequoia and newer. With this enabled, the app deals with this HDR display like it would on macOS Sonoma or earlier. You can still use the Control Center for SDR peak brightness adjustment." xml:space="preserve">
         <source>SDR peak brightness adjustment is available in macOS Sequoia and newer. With this enabled, the app deals with this HDR display like it would on macOS Sonoma or earlier. You can still use the Control Center for SDR peak brightness adjustment.</source>
+        <target state="translated">SDR-justering av högsta ljusstyrka är tillgänglig i macOS Sequoia och nyare. När detta är aktiverat hanterar appen denna HDR-skärm som den skulle göra på macOS Sonoma eller tidigare. Du kan fortfarande använda Kontrollcenter för justering av SDR-toppljusstyrka.</target>
         <note/>
       </trans-unit>
       <trans-unit id="SOURCE" xml:space="preserve">
@@ -5769,6 +5845,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Samples per pixel" xml:space="preserve">
         <source>Samples per pixel</source>
+        <target state="translated">Samplingar per pixel</target>
         <note/>
       </trans-unit>
       <trans-unit id="Save Calibration" xml:space="preserve">
@@ -5793,6 +5870,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Screen brightness is changed to a desired level (when originally higher) upon screen saver start or lock." xml:space="preserve">
         <source>Screen brightness is changed to a desired level (when originally higher) upon screen saver start or lock.</source>
+        <target state="translated">Skärmens ljusstyrka ändras till önskad nivå (om den ursprungligen var högre) vid start eller låsning av skärmsläckaren.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Screen with the mouse pointer" xml:space="preserve">
@@ -5827,6 +5905,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Select one or more filters to specify which displays are allowed to be sync sources for this configuration!" xml:space="preserve">
         <source>Select one or more filters to specify which displays are allowed to be sync sources for this configuration!</source>
+        <target state="translated">Välj ett eller flera filter för att ange vilka skärmar som får vara synkroniseringskällor för den här konfigurationen!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select position" xml:space="preserve">
@@ -5836,42 +5915,52 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Select which displays can be sync sources for this configuration!" xml:space="preserve">
         <source>Select which displays can be sync sources for this configuration!</source>
+        <target state="translated">Välj vilka skärmar som kan vara synkroniseringskällor för den här konfigurationen!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select which displays should be affected by UI scale matching!" xml:space="preserve">
         <source>Select which displays should be affected by UI scale matching!</source>
+        <target state="translated">Välj vilka skärmar som ska påverkas av UI-skalamatchning!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select which displays should be excluded from being sync sources for this configuration!" xml:space="preserve">
         <source>Select which displays should be excluded from being sync sources for this configuration!</source>
+        <target state="translated">Välj vilka skärmar som ska uteslutas från att vara synkroniseringskällor för den här konfigurationen!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select which displays should be excluded from being sync targets for this configuration!" xml:space="preserve">
         <source>Select which displays should be excluded from being sync targets for this configuration!</source>
+        <target state="translated">Välj vilka skärmar som ska uteslutas från att vara synkroniseringsmål för den här konfigurationen!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select which displays should be members of this display group!" xml:space="preserve">
         <source>Select which displays should be members of this display group!</source>
+        <target state="translated">Välj vilka displayer som ska vara medlemmar i denna skärmgrupp!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select which displays should be sync targets for this configuration!" xml:space="preserve">
         <source>Select which displays should be sync targets for this configuration!</source>
+        <target state="translated">Välj vilka skärmar som ska vara synkroniseringsmål för den här konfigurationen!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select which displays should be watched for resolution change to initiate a scale matching operation!" xml:space="preserve">
         <source>Select which displays should be watched for resolution change to initiate a scale matching operation!</source>
+        <target state="translated">Välj vilka skärmar som ska bevakas för upplösningsändring för att initiera en matchningsoperation!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select which displays should not be affected by UI scale matching!" xml:space="preserve">
         <source>Select which displays should not be affected by UI scale matching!</source>
+        <target state="translated">Välj vilka skärmar som inte ska påverkas av UI:s skalanpassning!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select which displays should not be members of this display group!" xml:space="preserve">
         <source>Select which displays should not be members of this display group!</source>
+        <target state="translated">Välj vilka skärmar som inte ska vara medlemmar i denna skärmgrupp!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select which displays should not be watched for resolution change to initiate a scale matching operation!" xml:space="preserve">
         <source>Select which displays should not be watched for resolution change to initiate a scale matching operation!</source>
+        <target state="translated">Välj vilka skärmar som inte ska bevakas för upplösningsändring för att initiera en matchningsoperation!</target>
         <note/>
       </trans-unit>
       <trans-unit id="Selected display is not available" xml:space="preserve">
@@ -5896,6 +5985,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="Send a custom DDC command (with value) to a display." xml:space="preserve">
         <source>Send a custom DDC command (with value) to a display.</source>
+        <target state="translated">Skicka ett anpassat DDC-kommando (med värde) till en skärm.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Serial number" xml:space="preserve">
@@ -6638,7 +6728,7 @@ Removing all activations will give you a blank slate.</source>
       </trans-unit>
       <trans-unit id="The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…" xml:space="preserve">
         <source>The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…</source>
-        <target state="translated">Appens menyikon kommer att återspegla ikonen för den aktuella huvudskärmen. Aktivera om du inte gillar standardikonen..</target>
+        <target state="translated">Appens menyikon kommer att återspegla ikonen för den aktuella huvudskärmen. Aktivera om du inte gillar standardikonen…</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app menu will show this name instead of the system name for the display. If you want to change the system-wide name, you can do so by enabling the configuration override option and editing the system display name." xml:space="preserve">
